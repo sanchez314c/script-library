@@ -1,0 +1,1208 @@
+2025-01-29 18:54:33,345 - INFO - Starting job market analysis...
+2025-01-29 18:54:33,855 - INFO - Search query 'site:techcrunch.com AI job market trends 2024' returned 10 results
+2025-01-29 18:54:34,454 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:35,035 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:35,758 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:36,264 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:36,758 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:37,209 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:37,701 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:38,186 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:38,616 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:39,245 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:41,689 - INFO - Search query 'site:venturebeat.com artificial intelligence jobs 2024' returned 10 results
+2025-01-29 18:54:42,181 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:42,505 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:42,872 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:43,302 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:43,673 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:44,044 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:44,367 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:44,681 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:44,993 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:45,318 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:47,767 - INFO - Search query 'site:ieee.org machine learning career trends' returned 10 results
+2025-01-29 18:54:48,313 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:48,742 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:49,329 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:50,010 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:50,759 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:51,247 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:51,674 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:52,053 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:52,500 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:52,981 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:55,386 - INFO - Search query 'site:wired.com AI industry hiring trends' returned 10 results
+2025-01-29 18:54:55,886 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:56,477 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:56,880 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:57,285 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:57,695 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:58,113 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:58,695 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:59,156 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:54:59,623 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:00,049 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:02,524 - INFO - Search query 'site:technologyreview.com emerging AI roles' returned 10 results
+2025-01-29 18:55:02,940 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:03,369 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:03,723 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:04,092 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:04,666 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:05,032 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:05,433 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:05,839 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:06,361 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:06,920 - ERROR - Error extracting keywords: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/nltk_data'
+    - '/Users/heathen-admin/nltk_data'
+    - '/Users/heathen-admin/miniconda/nltk_data'
+    - '/Users/heathen-admin/miniconda/share/nltk_data'
+    - '/Users/heathen-admin/miniconda/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-01-29 18:55:34,056 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-01-29 18:55:34,074 - INFO - Analysis complete. Reports generated at /Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/ai_job_market_report.json and /Users/heathen-admin/Desktop/Cortana/ai_job_analyzer/ai_job_market_report.md

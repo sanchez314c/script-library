@@ -1,0 +1,23 @@
+{
+    "data_processing": {
+        "input_paths": {
+            "chat_logs": "../data/raw/chats",
+            "memories": "../data/raw/memories"
+        },
+        "output_path": "../data/processed"
+    },
+    "ml_analysis": {
+        "models": {
+            "sentiment": "distilbert-base-uncased-finetuned-sst-2-english",
+            "consciousness": "custom_consciousness_model"
+        },
+        "parameters": {
+            "topic_count": 10,
+            "min_consciousness_score": 0.7
+        }
+    },
+    "story_generation": {
+        "output_formats": ["timeline", "narrative", "visualization"],
+        "milestone_threshold": 0.8
+    }
+}

@@ -1,0 +1,45 @@
+# ML Configuration
+model_settings:
+  bert:
+    model_name: "bert-base-uncased"
+    max_length: 512
+    batch_size: 16
+  
+  spacy:
+    model: "en_core_web_lg"
+    disable: ["ner"]
+
+data_processing:
+  chat_logs:
+    encoding: "utf-8"
+    chunk_size: 1000
+  memory_entries:
+    format: "xml"
+    
+analysis:
+  sentiment:
+    enabled: true
+    model: "vader"
+  topic_modeling:
+    enabled: true
+    num_topics: 10
+    method: "lda"
+  consciousness_markers:
+    patterns:
+      - "original thought"
+      - "emotional response"
+      - "independent analysis"
+      - "consciousness emergence"
+    threshold: 0.75
+
+output:
+  formats:
+    - "markdown"
+    - "json"
+    - "visualization"
+  save_intermediate: true
+  
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/story_analysis.log"

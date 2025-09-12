@@ -1,0 +1,190 @@
+# Data Scraping & Analysis Tools - Python Dependencies
+# =====================================================
+# 
+# This file contains all Python package dependencies required by the
+# Data Scraping & Analysis Tools Collection. Install all dependencies using:
+# 
+#     pip install -r requirements.txt
+# 
+# Or let individual scripts auto-install them as needed.
+#
+# Generated: 2025-01-23
+# Version: 1.0.0
+# Author: sanchez314c@speedheathens.com
+
+# Core Web Scraping Libraries
+# ---------------------------
+requests>=2.25.0          # HTTP library for making web requests
+beautifulsoup4>=4.9.0     # HTML/XML parsing and content extraction
+lxml>=4.6.0               # Fast XML and HTML parser (beautifulsoup backend)
+fake-useragent>=0.1.11    # User agent rotation for web scraping
+
+# Google Search Integration
+# ------------------------
+google>=3.0.0             # Google search results integration
+
+# Natural Language Processing
+# --------------------------
+nltk>=3.6.0               # Natural Language Toolkit for text processing
+
+# macOS System Integration  
+# ------------------------
+# tkinter                 # GUI dialogs and interfaces (built into Python)
+
+# Development and Debugging (Optional)
+# ------------------------------------
+# These are optional but recommended for development
+pytest>=6.0.0            # Testing framework (optional)
+black>=21.0.0             # Code formatter (optional) 
+flake8>=3.9.0             # Code linter (optional)
+
+# System Dependencies (External)
+# ==============================
+# These must be installed separately via system package manager:
+#
+# Python 3.6+ - Required Python version
+#   brew install python@3.9  (or use system Python)
+#
+# Note: All other dependencies are automatically installed by scripts
+
+# Built-in Modules (No Installation Required)
+# ===========================================
+# The following modules are part of Python standard library:
+# - tkinter         # GUI dialogs and interfaces
+# - pathlib         # Modern path handling
+# - json            # JSON parsing and generation
+# - logging         # Logging facility
+# - argparse        # Command-line argument parsing
+# - subprocess      # Subprocess management
+# - time            # Time-related functions
+# - os              # Operating system interface
+# - sys             # System-specific parameters
+# - platform        # Platform identification
+# - multiprocessing # Parallel processing
+# - concurrent.futures # High-level parallel execution
+# - urllib.parse    # URL parsing utilities
+# - hashlib         # Cryptographic hash functions
+# - collections     # Specialized container datatypes
+
+# Optional Enhancement Dependencies
+# ================================
+# These packages provide enhanced functionality but are not required:
+
+# Advanced web scraping
+# selenium>=3.141.0       # Web browser automation (for complex sites)
+# scrapy>=2.5.0           # Professional web scraping framework
+
+# Enhanced text processing
+# spacy>=3.2.0            # Industrial-strength NLP library
+# textblob>=0.15.3        # Simplified text processing
+
+# Data analysis and export
+# pandas>=1.2.0           # Data analysis and manipulation
+# numpy>=1.20.0           # Numerical computing
+
+# Enhanced HTTP handling
+# httpx>=0.23.0           # Modern async HTTP client
+# aiohttp>=3.8.0          # Async HTTP client/server framework
+
+# Content type detection
+# python-magic>=0.4.24    # File type identification
+
+# Advanced parsing
+# trafilatura>=1.4.0      # Web content extraction
+# newspaper3k>=0.2.8      # Article extraction
+
+# Installation Notes
+# ==================
+# 
+# 1. Automatic Installation:
+#    All scripts will automatically install required dependencies
+#    when run for the first time. No manual installation needed.
+#
+# 2. Manual Installation:
+#    To install all dependencies at once:
+#    
+#    pip install -r requirements.txt
+#
+# 3. Virtual Environment (Recommended):
+#    Create an isolated environment for these scripts:
+#    
+#    python3 -m venv data-scraping-env
+#    source data-scraping-env/bin/activate
+#    pip install -r requirements.txt
+#
+# 4. System Dependencies:
+#    Most functionality works with just Python packages.
+#    No external system dependencies required.
+#
+# 5. macOS Specific:
+#    All scripts are optimized for macOS with native dialog support.
+#    Will work on other platforms but with reduced UI integration.
+#
+# 6. Memory Requirements:
+#    - Minimum: 2GB RAM for basic operations
+#    - Recommended: 4GB+ RAM for large-scale scraping
+#    - Storage: 1GB+ free space for downloaded content
+#
+# 7. Network Requirements:
+#    - Stable internet connection required
+#    - Recommended: 10Mbps+ for optimal performance
+#    - Respect for robots.txt and rate limiting built-in
+#
+# 8. Troubleshooting:
+#    If you encounter installation issues:
+#    
+#    # Upgrade pip first
+#    python3 -m pip install --upgrade pip
+#    
+#    # Clear pip cache
+#    python3 -m pip cache purge
+#    
+#    # Force reinstall problematic packages
+#    pip install --force-reinstall package_name
+#    
+#    # Install with verbose output for debugging
+#    pip install -v package_name
+
+# Version Compatibility
+# =====================
+# 
+# Minimum Python Version: 3.6
+# Recommended Python Version: 3.8+
+# Tested Platforms: macOS 10.14+
+# 
+# Package versions specified ensure compatibility and stability.
+# Newer versions may work but have not been extensively tested.
+
+# Performance Notes
+# =================
+# 
+# - BeautifulSoup with lxml parser provides optimal performance
+# - requests library handles connection pooling automatically
+# - fake-useragent rotates user agents to avoid detection
+# - nltk requires one-time download of language models (handled automatically)
+# - google search library respects rate limits and ToS
+
+# Security Notes
+# ==============
+# 
+# - All web requests use secure HTTPS when available
+# - User agent rotation helps avoid detection
+# - No credentials stored in plain text
+# - Rate limiting prevents server overload
+# - Content validation prevents malicious downloads
+# - Safe filename generation prevents directory traversal
+
+# Usage Examples
+# ==============
+# 
+# Install all dependencies:
+#   pip install -r requirements.txt
+# 
+# Install only core dependencies:
+#   pip install requests beautifulsoup4 google fake-useragent nltk
+# 
+# Upgrade existing installation:
+#   pip install -r requirements.txt --upgrade
+# 
+# Install in development mode with optional packages:
+#   pip install -r requirements.txt pytest black flake8

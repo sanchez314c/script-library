@@ -1,0 +1,218 @@
+# GET SWIFTY NLP Suite v1.0.0
+# Advanced Natural Language Processing dependencies
+# Professional resume generation with AI-powered analytics
+
+# Core Deep Learning and NLP Frameworks
+torch>=1.12.0                      # Deep learning framework with MPS/CUDA support
+torchvision>=0.13.0               # Computer vision models and utilities
+torchaudio>=0.12.0                # Audio processing capabilities
+
+# Advanced NLP and Transformer Models
+spacy>=3.4.0                      # Industrial-strength NLP with transformer support
+transformers>=4.21.0              # Hugging Face transformer models and tokenizers
+sentence-transformers>=2.2.0      # Semantic similarity and sentence embeddings
+bertopic>=0.12.0                  # Topic modeling with BERT embeddings
+tokenizers>=0.13.0                # Fast tokenization for transformer models
+
+# SpaCy Models (Downloaded separately via script)
+# en-core-web-trf>=3.4.0          # Transformer-based English model (auto-installed)
+
+# Data Processing and Scientific Computing
+pandas>=1.5.0                     # Data manipulation and analysis
+numpy>=1.21.0                     # Numerical computing and array operations
+scipy>=1.9.0                      # Scientific computing and optimization
+scikit-learn>=1.1.0               # Machine learning algorithms and metrics
+
+# Text Processing and Analysis
+nltk>=3.7                         # Natural language toolkit for text processing
+textblob>=0.17.0                  # Simple text processing and sentiment analysis
+fuzzywuzzy>=0.18.0                # Fuzzy string matching for similarity detection
+python-levenshtein>=0.20.0        # Fast string distance calculations
+textdistance>=4.5.0               # Multiple string distance algorithms
+
+# JSON Schema and Data Validation
+jsonschema>=4.0.0                 # JSON schema validation and verification
+cerberus>=1.3.0                   # Data validation and normalization
+marshmallow>=3.17.0               # Object serialization and validation
+
+# Network Analysis and Graph Processing
+networkx>=2.8.0                   # Graph analysis for skill relationship mapping
+igraph>=0.10.0                    # High-performance graph analysis
+community>=1.1.0                  # Community detection in networks
+
+# Visualization and Plotting
+matplotlib>=3.5.0                 # Static plotting and visualization
+seaborn>=0.11.0                   # Statistical data visualization
+plotly>=5.10.0                    # Interactive charts and dashboards
+bokeh>=2.4.0                      # Interactive visualization for web
+altair>=4.2.0                     # Declarative statistical visualization
+
+# Interactive Dashboard Framework
+dash>=2.6.0                       # Web-based dashboard framework
+dash-core-components>=2.0.0       # Dashboard core UI components
+dash-html-components>=2.0.0       # HTML components for dashboards
+dash-table>=5.0.0                 # Data table components
+dash-bootstrap-components>=1.2.0  # Bootstrap components for dashboards
+
+# Document Generation and PDF Processing
+reportlab>=3.6.0                  # Professional PDF generation and formatting
+PyPDF2>=3.0.0                     # PDF reading and manipulation
+pdfplumber>=0.7.0                 # Advanced PDF text extraction
+weasyprint>=56.0                  # HTML/CSS to PDF conversion
+
+# Image Processing and Computer Vision
+Pillow>=9.0.0                     # Image processing and manipulation
+opencv-python>=4.6.0              # Computer vision and image analysis
+imageio>=2.21.0                   # Image I/O operations
+scikit-image>=0.19.0              # Scientific image processing
+
+# Progress Tracking and User Interface
+tqdm>=4.64.0                      # Progress bars and status tracking
+rich>=12.5.0                      # Rich text and beautiful formatting
+click>=8.1.0                      # Command-line interface creation
+colorama>=0.4.5                   # Cross-platform colored terminal output
+
+# Date and Time Processing
+python-dateutil>=2.8.0            # Advanced date parsing and manipulation
+pytz>=2022.2                      # Timezone definitions and conversions
+arrow>=1.2.0                      # Better date and time handling
+
+# HTTP and Web Requests
+requests>=2.28.0                  # HTTP library for API calls
+urllib3>=1.26.0                   # HTTP client utilities
+aiohttp>=3.8.0                    # Asynchronous HTTP client/server
+
+# Configuration and Environment Management
+python-dotenv>=0.20.0             # Environment variable management
+configparser>=5.3.0               # Configuration file parsing
+PyYAML>=6.0                       # YAML configuration file support
+
+# Caching and Performance Optimization
+joblib>=1.1.0                     # Efficient caching and parallel computing
+memory-profiler>=0.60.0           # Memory usage profiling and optimization
+cachetools>=5.2.0                 # Caching utilities and decorators
+diskcache>=5.4.0                  # Disk-based caching for large datasets
+
+# Database and Storage
+sqlite3                           # Built-in SQLite database support
+sqlalchemy>=1.4.0                 # Database ORM and connection management
+h5py>=3.7.0                       # HDF5 file format for large datasets
+
+# Compression and Archive Support
+zipfile38>=0.0.3                  # Enhanced ZIP file handling
+tarfile>=0.9.0                    # TAR archive support
+gzip>=1.1                         # GZIP compression utilities
+
+# Cryptography and Security
+cryptography>=3.4.0               # Cryptographic functions and secure hashing
+hashlib>=3.2                      # Secure hash algorithms
+secrets>=1.0                      # Secure random number generation
+
+# System and Process Management
+psutil>=5.9.0                     # System and process monitoring
+platform>=1.0.8                  # Platform identification utilities
+pathlib>=1.0.1                   # Modern path handling (Python 3.4+ compatibility)
+
+# Testing and Quality Assurance
+pytest>=7.1.0                     # Testing framework
+pytest-cov>=3.0.0                 # Code coverage analysis
+pytest-mock>=3.8.0                # Mock objects for testing
+hypothesis>=6.54.0                # Property-based testing
+
+# Code Quality and Linting
+black>=22.6.0                     # Code formatting and style
+flake8>=5.0.0                     # Code linting and style checking
+mypy>=0.971                       # Static type checking
+isort>=5.10.0                     # Import sorting and organization
+
+# Documentation Generation
+sphinx>=5.1.0                     # Documentation generation
+sphinx-rtd-theme>=1.0.0           # ReadTheDocs theme for Sphinx
+
+# GUI Framework (Built-in with Python on macOS)
+# tkinter                          # GUI framework (included with Python)
+
+# Optional Advanced Dependencies
+# Uncomment if advanced features are needed:
+
+# Advanced Machine Learning
+# xgboost>=1.6.0                  # Gradient boosting framework
+# lightgbm>=3.3.0                 # Gradient boosting machine learning
+# catboost>=1.0.0                 # Categorical feature gradient boosting
+
+# Deep Learning Extensions
+# tensorflow>=2.9.0               # TensorFlow deep learning framework
+# keras>=2.9.0                    # High-level neural networks API
+# pytorch-lightning>=1.6.0        # PyTorch training framework
+
+# Advanced NLP Models
+# spacy-transformers>=1.1.0       # SpaCy transformer integration
+# allennlp>=2.10.0                # Advanced NLP research library
+# fairseq>=0.12.0                 # Facebook AI Research sequence modeling
+
+# Cloud and Distributed Computing
+# ray>=2.0.0                      # Distributed computing framework
+# dask>=2022.8.0                  # Parallel computing for larger datasets
+# jobqueue>=0.1.0                 # Job queue management
+
+# Advanced Visualization
+# holoviews>=1.15.0               # High-level data visualization
+# datashader>=0.14.0              # Large dataset visualization
+# panel>=0.14.0                   # App and dashboard framework
+
+# API and Web Framework
+# fastapi>=0.80.0                 # Modern web framework for APIs
+# uvicorn>=0.18.0                 # ASGI server for FastAPI
+# starlette>=0.20.0               # Lightweight ASGI framework
+
+# Installation Commands:
+
+# Basic Installation (Core NLP functionality):
+# pip install torch spacy transformers sentence-transformers pandas matplotlib plotly dash
+
+# Full Installation (All features):
+# pip install -r requirements.txt
+
+# SpaCy Model Installation (Required):
+# python -m spacy download en_core_web_trf
+
+# Development Installation (Includes testing and linting):
+# pip install -r requirements.txt pytest black flake8 mypy
+
+# GPU Support Installation (NVIDIA CUDA):
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# Apple Silicon Optimization:
+# pip install torch torchvision torchaudio
+
+# Performance Installation (Includes profiling tools):
+# pip install -r requirements.txt memory-profiler line-profiler
+
+# Minimum System Requirements:
+# - macOS 10.15 or later
+# - Python 3.8 or higher
+# - 8GB RAM (16GB recommended for large datasets)
+# - 5GB free disk space for models and cache
+# - Internet connection for initial model downloads
+
+# Recommended System Configuration:
+# - macOS 11.0 or later with Apple Silicon for MPS acceleration
+# - Python 3.9 or higher
+# - 32GB RAM for optimal performance with large datasets
+# - SSD storage for fast model loading and caching
+# - GPU acceleration (Apple MPS or NVIDIA CUDA) for transformer models
+
+# Note: All dependencies include automatic installation through the
+# GET SWIFTY auto-dependency system. The script will automatically
+# install missing packages and download required models on first run
+# with comprehensive error handling and progress tracking.
+
+# Model Storage Locations:
+# ~/.cache/huggingface/transformers/    # Transformer models cache
+# ~/.cache/torch/sentence_transformers/ # Sentence transformer models
+# ~/Library/Caches/spacy/               # SpaCy models cache (macOS)
+
+# Environment Variables (Optional):
+# TRANSFORMERS_CACHE=/path/to/cache     # Custom transformer cache location
+# SENTENCE_TRANSFORMERS_HOME=/path      # Custom sentence transformers location
+# PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0 # MPS memory optimization (Apple Silicon)

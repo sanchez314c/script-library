@@ -1,0 +1,144 @@
+# GET SWIFTY Mobile Media Transfer Station v1.0.0
+# Professional mobile device media synchronization dependencies
+# Universal macOS compatibility with auto-installation support
+
+# Core Image and Media Processing
+pillow>=9.0.0                   # Advanced image processing and EXIF handling
+exifread>=3.0.0                 # EXIF metadata extraction from photos
+psutil>=5.9.0                   # System resource monitoring and optimization
+
+# Progress and Status Tracking
+tqdm>=4.64.0                    # Progress bars and real-time status updates
+colorama>=0.4.5                 # Cross-platform colored terminal output
+
+# Date and Time Processing
+python-dateutil>=2.8.0          # Advanced date parsing and manipulation
+pytz>=2022.7                    # Timezone handling for metadata
+
+# File and Path Management
+pathlib>=1.0.1                  # Modern path handling (Python 3.4+ compatibility)
+send2trash>=1.8.0               # Safe file deletion with trash support
+
+# Data Processing and Analysis
+pandas>=1.5.0                   # Data analysis for transfer statistics
+numpy>=1.21.0                   # Numerical operations for quality metrics
+
+# Cryptography and Hashing
+hashlib>=3.2                    # File integrity verification and duplicate detection
+xxhash>=3.0.0                   # Fast hashing for large file comparison
+
+# System Integration (macOS specific)
+pyobjc-framework-Foundation>=9.0   # macOS Foundation framework integration
+pyobjc-framework-Cocoa>=9.0        # macOS Cocoa framework for native dialogs
+
+# Network and Connectivity
+requests>=2.28.0                # HTTP library for device communication
+urllib3>=1.26.0                 # HTTP client utilities
+
+# Archive and Compression Support
+py7zr>=0.20.0                   # 7-Zip archive handling
+zipfile38>=0.0.3                # Enhanced ZIP file operations
+
+# Configuration and Settings
+configparser>=5.3.0             # Configuration file management
+argparse>=1.4.0                 # Command-line argument parsing
+
+# Logging and Monitoring
+structlog>=22.0.0               # Structured logging for complex operations
+python-json-logger>=2.0.0       # JSON logging format support
+
+# Development and Testing Dependencies
+pytest>=7.0.0                   # Testing framework
+pytest-mock>=3.8.0              # Mock objects for testing
+coverage>=6.0                   # Code coverage analysis
+
+# GUI Framework (Built-in with Python on macOS)
+# tkinter                       # GUI framework (included with Python)
+
+# External Tool Dependencies (Manual Installation Required)
+# These tools must be installed separately on the system:
+
+# Android Device Support:
+# android-platform-tools        # ADB (Android Debug Bridge)
+#   Installation: brew install android-platform-tools
+#   Purpose: Android device connectivity and file transfer
+
+# iOS Device Support:
+# libimobiledevice              # iOS device framework
+#   Installation: brew install libimobiledevice
+#   Purpose: iOS device connectivity and photo transfer
+#   Additional: ideviceinstaller, ifuse for advanced features
+
+# System Requirements Verification
+# The following packages help verify system readiness:
+
+# Hardware Information
+py-cpuinfo>=8.0.0               # CPU information and capabilities
+GPUtil>=1.4.0                   # GPU information (if available)
+
+# Performance Monitoring
+memory-profiler>=0.60.0         # Memory usage profiling
+line-profiler>=4.0.0            # Line-by-line performance profiling
+
+# Optional Enhanced Features
+# Uncomment if advanced features are needed:
+
+# Advanced Image Processing
+# opencv-python>=4.6.0          # Computer vision and advanced image processing
+# scikit-image>=0.19.0          # Scientific image processing
+
+# Video Processing
+# ffmpeg-python>=0.2.0          # Video file analysis and processing
+# moviepy>=1.0.3                # Video editing and manipulation
+
+# Audio Processing
+# mutagen>=1.45.0               # Audio metadata handling
+# pydub>=0.25.1                 # Audio file manipulation
+
+# Machine Learning for Duplicate Detection
+# imagehash>=4.3.0              # Perceptual image hashing
+# scikit-learn>=1.1.0           # Machine learning algorithms
+
+# Cloud Storage Integration
+# google-cloud-storage>=2.5.0   # Google Cloud Storage support
+# boto3>=1.24.0                 # AWS S3 storage support
+# dropbox>=11.36.0              # Dropbox API integration
+
+# Advanced GUI Components
+# tkinter-tooltip>=2.0.0        # Enhanced tooltip functionality
+# tkinter-dnd2>=0.3.0           # Drag and drop support
+
+# Installation Commands:
+
+# Basic Installation (Core functionality):
+# pip install pillow exifread tqdm psutil python-dateutil
+
+# Full Installation (All features):
+# pip install -r requirements.txt
+
+# System Tools Installation (macOS):
+# brew install android-platform-tools libimobiledevice
+
+# Developer Installation (Includes testing tools):
+# pip install -r requirements.txt pytest pytest-mock coverage
+
+# Performance Installation (Includes profiling tools):
+# pip install -r requirements.txt memory-profiler line-profiler
+
+# Note: All Python dependencies include automatic installation through the
+# GET SWIFTY auto-dependency system. Scripts will automatically install
+# missing packages on first run with comprehensive error handling.
+
+# Minimum System Requirements:
+# - macOS 10.14 or later
+# - Python 3.8 or higher
+# - 4GB RAM (8GB recommended for large transfers)
+# - 10GB free disk space for processing buffers
+# - USB 2.0 or higher for device connectivity
+
+# Recommended System Configuration:
+# - macOS 11.0 or later
+# - Python 3.9 or higher
+# - 16GB RAM for optimal performance
+# - SSD storage for best transfer speeds
+# - USB 3.0 or higher for maximum transfer rates

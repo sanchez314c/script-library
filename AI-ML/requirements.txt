@@ -1,0 +1,76 @@
+# AI-ML Tools Collection - Requirements
+# Jason Paul Michaels (sanchez314c)
+# https://github.com/sanchez314c
+
+# Core AI/ML Libraries
+openai>=1.0.0
+anthropic>=0.7.0
+google-generativeai>=0.3.0
+transformers>=4.21.0
+torch>=1.12.0
+spacy>=3.4.0
+
+# NLP Libraries
+nltk>=3.8
+textblob>=0.17.1
+
+# Data Analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# HTTP Requests
+requests>=2.28.0
+
+# Environment Management
+python-dotenv>=0.19.0
+
+# GUI Libraries (included with Python on macOS)
+# tkinter - built-in
+
+# Progress Bars and UI
+# ttk - built-in with tkinter
+
+# Text Processing
+# readline - built-in
+
+# System Libraries
+# pathlib - built-in
+# json - built-in
+# time - built-in
+# logging - built-in
+# argparse - built-in
+# threading - built-in
+# multiprocessing - built-in
+# signal - built-in
+# os - built-in
+# sys - built-in
+
+# Additional Models (install separately)
+# python -m spacy download en_core_web_sm
+# python -m nltk.downloader punkt vader_lexicon
+
+# Optional GPU Support
+# Install CUDA toolkit for GPU acceleration with PyTorch
+# For Apple Silicon Macs, use Metal Performance Shaders (automatic with torch)
+
+# Provider-Specific Notes:
+# - OpenAI: Requires OPENAI_API_KEY
+# - Anthropic: Requires ANTHROPIC_API_KEY  
+# - Google AI: Requires GOOGLE_AI_API_KEY
+# - Perplexity: Requires PERPLEXITY_API_KEY
+# - Groq: Requires GROQ_API_KEY
+# - Mistral: Requires MISTRAL_API_KEY
+# - AI21 (Jamba): Requires AI21_API_KEY
+# - xAI: Requires XAI_API_KEY
+# - Ollama: Local installation required (ollama.ai)
+
+# Minimum Python Version: 3.8+
+# Recommended Python Version: 3.10+
+# Tested on: macOS Monterey 12.0+ (both Intel and Apple Silicon)
+
+# Installation Instructions:
+# 1. pip install -r requirements.txt
+# 2. python -m spacy download en_core_web_sm
+# 3. python -m nltk.downloader punkt vader_lexicon
+# 4. Create .env file with API keys (see README.md)
+# 5. For Ollama: Install from https://ollama.ai and pull desired models

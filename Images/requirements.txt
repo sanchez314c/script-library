@@ -1,0 +1,88 @@
+# Images - Media Processing & Metadata Management Suite
+# Universal macOS-Compatible Requirements
+# Version: 1.0.0
+# Auto-installed by individual scripts as needed
+
+# Core Image Processing
+Pillow>=10.0.0                    # PIL - Python Imaging Library
+pillow-heif>=0.13.0               # HEIF/HEIC format support
+pyheif>=0.7.1                     # Additional HEIF support
+exifread>=3.0.0                   # EXIF metadata reading
+
+# GUI and Interface
+tkinter                           # Native GUI dialogs (standard library)
+
+# Progress and Feedback
+tqdm>=4.66.0                      # Progress bars and tracking
+rich>=13.0.0                      # Enhanced console output
+
+# Data Processing
+pandas>=2.0.0                     # Data analysis and CSV handling
+numpy>=1.24.0                     # Numerical processing
+jsonschema>=4.17.0                # JSON validation and processing
+
+# File and System Operations
+pathlib                           # Path handling (standard library)
+subprocess                       # System command execution (standard library)
+multiprocessing                  # Parallel processing (standard library)
+concurrent.futures               # Thread/process pool management (standard library)
+threading                        # Threading support (standard library)
+
+# Date and Time Processing
+datetime                          # Date/time handling (standard library)
+dateutil>=2.8.0                  # Extended date parsing
+pytz>=2023.3                     # Timezone support
+
+# Text Processing and Patterns
+re                                # Regular expressions (standard library)
+glob                              # File pattern matching (standard library)
+
+# Error Handling and Logging
+logging                           # Comprehensive logging (standard library)
+traceback                        # Error traceback (standard library)
+
+# System Integration
+os                                # Operating system interface (standard library)
+sys                               # System-specific parameters (standard library)
+shutil                            # High-level file operations (standard library)
+
+# PDF Generation
+reportlab>=4.0.0                  # PDF creation and manipulation
+
+# Additional Utilities
+collections                      # Specialized container datatypes (standard library)
+functools                        # Higher-order functions (standard library)
+itertools                        # Iterator creation tools (standard library)
+typing                           # Type hinting support (standard library)
+
+# Development and Testing
+pytest>=7.4.0                    # Testing framework
+pytest-cov>=4.1.0                # Coverage testing
+
+# External Tools (Auto-installed via system package managers)
+# exiftool                        # Installed via: brew install exiftool
+# ffmpeg                          # Installed via: brew install ffmpeg (optional)
+
+# ============================================================================
+# Installation Notes:
+# ============================================================================
+# 1. All dependencies are automatically installed by individual scripts
+# 2. System tools (exiftool, ffmpeg) are installed via Homebrew
+# 3. Python packages are installed via pip with version checking
+# 4. Standard library modules are included for documentation
+# 5. Scripts handle missing dependencies gracefully with auto-installation
+#
+# Manual Installation (optional):
+# pip install -r requirements.txt
+# brew install exiftool
+#
+# ============================================================================
+# Compatibility Notes:
+# ============================================================================
+# - Tested on macOS 12.0+ (Monterey and later)
+# - Python 3.8+ required for optimal compatibility
+# - Universal compatibility with Intel and Apple Silicon Macs
+# - Native macOS GUI integration via tkinter
+# - Parallel processing optimized for macOS threading model
+#
+# ============================================================================

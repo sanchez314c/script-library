@@ -1,0 +1,164 @@
+# System - Universal macOS System Administration & File Management Suite
+# Professional-Grade Requirements for macOS Power Users
+# Version: 1.0.0
+# Auto-installed by individual scripts as needed
+
+# Core System Libraries
+os                                # Operating system interface (standard library)
+sys                               # System-specific parameters (standard library)
+pathlib                          # Object-oriented filesystem paths (standard library)
+subprocess                       # Subprocess management (standard library)
+shutil                           # High-level file operations (standard library)
+
+# Multi-threading and Concurrency
+threading                        # Thread-based parallelism (standard library)
+multiprocessing                  # Process-based parallelism (standard library)
+concurrent.futures               # High-level threading interface (standard library)
+queue                            # Thread-safe queue implementation (standard library)
+
+# GUI and User Interface
+tkinter                          # Native GUI framework (standard library)
+tkinter.ttk                      # Themed tkinter widgets (standard library)
+tkinter.filedialog              # File/directory selection dialogs (standard library)
+tkinter.messagebox              # Message dialog boxes (standard library)
+tkinter.scrolledtext            # Scrollable text widget (standard library)
+
+# File and Directory Operations
+glob                             # Unix-style pathname pattern matching (standard library)
+fnmatch                          # Unix filename pattern matching (standard library)
+tempfile                        # Temporary file and directory creation (standard library)
+zipfile                         # ZIP archive handling (standard library)
+tarfile                         # TAR archive handling (standard library)
+
+# Data Processing and Analysis
+json                             # JSON encoder and decoder (standard library)
+csv                              # CSV file reading and writing (standard library)
+sqlite3                         # SQLite database interface (standard library)
+collections                     # Specialized container datatypes (standard library)
+itertools                       # Iterator creation tools (standard library)
+functools                       # Higher-order functions (standard library)
+
+# Text Processing and Patterns
+re                               # Regular expression operations (standard library)
+string                           # String operations (standard library)
+textwrap                         # Text wrapping utilities (standard library)
+
+# Date and Time
+datetime                         # Date and time handling (standard library)
+time                             # Time-related functions (standard library)
+calendar                         # Calendar-related functions (standard library)
+
+# Networking and Internet
+socket                           # Low-level networking interface (standard library)
+urllib                           # URL handling modules (standard library)
+http.client                     # HTTP protocol client (standard library)
+ssl                              # SSL/TLS wrapper (standard library)
+
+# External Dependencies (Auto-installed)
+requests>=2.31.0                # HTTP library for API calls
+psutil>=5.9.0                   # System and process utilities
+watchdog>=3.0.0                 # File system event monitoring
+tqdm>=4.66.0                    # Progress bars and tracking
+rich>=13.0.0                    # Enhanced console output
+colorama>=0.4.6                 # Cross-platform colored terminal text
+
+# Data Visualization (Optional)
+matplotlib>=3.7.0               # Plotting library
+pandas>=2.0.0                   # Data analysis and manipulation
+numpy>=1.24.0                   # Numerical computing
+
+# Network Analysis Tools
+dnspython>=2.4.0                # DNS toolkit
+ipaddress                       # IPv4/IPv6 manipulation (standard library)
+netaddr>=0.8.0                  # Network address manipulation
+
+# Compression and Archives
+lzma                             # LZMA compression (standard library)
+bz2                              # Bzip2 compression (standard library)
+gzip                             # Gzip compression (standard library)
+
+# Cryptography and Security
+hashlib                          # Secure hash algorithms (standard library)
+hmac                             # Keyed-hashing message authentication (standard library)
+secrets                         # Secure random number generation (standard library)
+base64                           # Base64 encoding/decoding (standard library)
+
+# System Information and Monitoring
+platform                        # Access to underlying platform data (standard library)
+resource                        # Resource usage information (standard library)
+signal                          # Signal handling (standard library)
+
+# Logging and Debugging
+logging                          # Flexible event logging (standard library)
+traceback                       # Print or retrieve stack traceback (standard library)
+pdb                              # Python debugger (standard library)
+warnings                        # Warning control (standard library)
+
+# Configuration and Arguments
+argparse                         # Command-line argument parsing (standard library)
+configparser                    # Configuration file parser (standard library)
+getpass                         # Portable password input (standard library)
+getopt                          # C-style option parser (standard library)
+
+# Type Hints and Validation
+typing                           # Type hinting support (standard library)
+types                           # Dynamic type creation (standard library)
+inspect                         # Inspect live objects (standard library)
+
+# Development and Testing
+unittest                        # Unit testing framework (standard library)
+doctest                         # Test interactive Python examples (standard library)
+pytest>=7.4.0                  # Advanced testing framework
+pytest-cov>=4.1.0              # Coverage testing
+
+# ============================================================================
+# System Tools (Auto-installed via system package managers)
+# ============================================================================
+# rsync                          # Installed via: brew install rsync
+# exiftool                       # Installed via: brew install exiftool
+# ffmpeg                         # Installed via: brew install ffmpeg (optional)
+# curl                           # Pre-installed on macOS
+# wget                           # Installed via: brew install wget (optional)
+
+# ============================================================================
+# Installation Notes:
+# ============================================================================
+# 1. All dependencies are automatically installed by individual scripts
+# 2. System tools are installed via Homebrew when needed
+# 3. Python packages are installed via pip with version checking
+# 4. Standard library modules are included for documentation
+# 5. Scripts handle missing dependencies gracefully with auto-installation
+# 6. Optional dependencies are installed only when specific features are used
+#
+# Manual Installation (optional):
+# pip install -r requirements.txt
+# brew install rsync exiftool ffmpeg wget
+#
+# ============================================================================
+# Performance Notes:
+# ============================================================================
+# - Multi-threading optimized for macOS threading model
+# - Memory-efficient algorithms for large dataset processing
+# - Native macOS GUI integration via tkinter
+# - Intelligent caching for repeated operations
+# - Background processing for non-blocking operations
+#
+# ============================================================================
+# Security Notes:
+# ============================================================================
+# - DNS leak testing requires network connectivity
+# - VPN tools may require elevated permissions
+# - File operations respect macOS permission model
+# - Network scanning operates within user permissions
+# - All operations are logged for security auditing
+#
+# ============================================================================
+# Compatibility Notes:
+# ============================================================================
+# - Tested on macOS 12.0+ (Monterey and later)
+# - Python 3.8+ required for optimal compatibility
+# - Universal compatibility with Intel and Apple Silicon Macs
+# - Native integration with macOS file system and GUI
+# - Optimized for SSD storage and modern hardware
+#
+# ============================================================================

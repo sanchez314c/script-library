@@ -1,0 +1,122 @@
+# Digital Forensics Investigation Suite - Dependencies
+# ==================================================
+# Professional digital forensics tools for comprehensive evidence analysis
+# Author: sanchez314c@speedheathens.com
+# Version: 1.0.0
+# Updated: 2025-01-23
+
+# Core Forensic Analysis Libraries
+python-magic>=0.4.24           # File type detection and MIME analysis
+exifread>=2.3.2                # EXIF metadata extraction from images
+pefile>=2021.9.3               # Windows PE file analysis and inspection
+yara-python>=4.2.0             # Pattern matching and malware detection
+
+# Image Analysis and Processing
+Pillow>=8.0.0                  # Image processing and manipulation
+imagehash>=4.2.1               # Perceptual image hashing for duplicates
+opencv-python>=4.5.0           # Computer vision and advanced image analysis
+
+# Scientific Computing and Statistics
+numpy>=1.21.0                  # Numerical analysis and array operations
+scipy>=1.7.0                   # Scientific computing and statistical tests
+pandas>=1.3.0                  # Data analysis and timeline processing
+matplotlib>=3.5.0              # Data visualization and graph generation
+
+# Network Analysis and Traffic Forensics
+scapy>=2.4.5                   # Network packet analysis and manipulation
+networkx>=2.6.0                # Network topology analysis and visualization
+
+# Date and Time Processing
+python-dateutil>=2.8.0         # Advanced date parsing and manipulation
+
+# GUI Framework (Built-in with Python)
+# tkinter - Native GUI dialogs and progress windows
+
+# System Integration (Built-in with Python)
+# pathlib - Modern path handling and file operations
+# multiprocessing - Multi-core processing optimization
+# concurrent.futures - Thread pool execution and parallel processing
+# subprocess - System command execution and tool integration
+# hashlib - Cryptographic hash functions for integrity verification
+# json - Report generation and structured data serialization
+# logging - Comprehensive forensic audit trail and error tracking
+# argparse - Command-line interface and parameter handling
+# collections - Advanced data structures for analysis
+# statistics - Statistical analysis and anomaly detection
+# time - Performance timing and timestamp handling
+# socket - Network address parsing and validation
+# struct - Binary data parsing and analysis
+# base64 - Encoding detection and analysis
+# re - Regular expression pattern matching
+# math - Mathematical operations and entropy calculations
+
+# Installation Notes:
+# ==================
+# 
+# Quick Install:
+# pip install -r requirements.txt
+#
+# Individual Installation:
+# pip install python-magic exifread pefile yara-python Pillow imagehash
+# pip install opencv-python numpy scipy pandas matplotlib scapy networkx
+# pip install python-dateutil
+#
+# macOS Specific Notes:
+# - All scripts include auto-dependency installation
+# - Native file dialogs use built-in tkinter
+# - Desktop logging enabled by default for audit trails
+# - Optimized for Apple Silicon and Intel processors
+# - Universal macOS compatibility from macOS 11+
+#
+# Performance Recommendations:
+# - Install on SSD for optimal file analysis performance
+# - Minimum 8GB RAM recommended for large evidence processing
+# - Multi-core CPUs significantly improve batch analysis operations
+# - Network analysis requires additional RAM for large PCAP files
+#
+# Security Considerations:
+# - All analysis performed locally with no external dependencies
+# - No network connectivity required during analysis operations
+# - Evidence integrity preserved through read-only access patterns
+# - Comprehensive audit logging for chain of custody requirements
+# - Secure temporary file handling with automatic cleanup
+#
+# Forensic Tool Integration:
+# - Compatible with standard forensic imaging tools
+# - Supports analysis of evidence from major forensic suites
+# - Maintains evidence integrity throughout analysis process
+# - Generates reports compatible with legal documentation requirements
+#
+# Legal and Compliance Notes:
+# - Tools designed for authorized digital forensics investigations
+# - Maintains chain of custody through comprehensive logging
+# - Evidence integrity verification through cryptographic hashing
+# - Non-destructive analysis methods preserve original evidence
+# - Documentation suitable for expert testimony and legal proceedings
+#
+# Troubleshooting:
+# - If python-magic installation fails, install system dependencies:
+#   brew install libmagic
+# - For OpenCV issues on Apple Silicon:
+#   pip install --no-binary opencv-python opencv-python
+# - For Scapy network interface issues:
+#   sudo pip install --upgrade scapy
+# - YARA compilation errors may require:
+#   brew install yara
+# - On permission errors during analysis, ensure proper file access rights
+#
+# Version Compatibility:
+# - Python 3.8+ required for all forensic tools
+# - Tested on macOS 11+ (Big Sur, Monterey, Ventura, Sonoma)
+# - Compatible with Apple Silicon (M1/M2/M3) and Intel processors
+# - Cross-platform evidence analysis (Windows, Linux evidence on macOS)
+#
+# Professional Development Dependencies (Optional):
+# matplotlib-style>=3.5.0       # Enhanced visualization themes
+# seaborn>=0.11.0               # Statistical data visualization
+# plotly>=5.0.0                 # Interactive forensic charts
+# jupyter>=1.0.0                # Notebook-based analysis workflows
+# graphviz>=0.20                # Advanced network topology graphs
+# psutil>=5.8.0                 # System resource monitoring during analysis
+# cryptography>=3.4.8          # Advanced cryptographic analysis
+# hexdump>=3.3                  # Binary data visualization and analysis

@@ -1,0 +1,254 @@
+# Video Processing & Management Suite - Dependencies
+# ===================================================
+# 
+# This file contains all dependencies required by the Video Processing Suite.
+# The suite includes both Python applications and Bash scripts for comprehensive
+# video processing, analysis, and management.
+# 
+# Generated: 2025-01-24
+# Version: 1.0.0
+# Author: sanchez314c@speedheathens.com
+
+# ============================================================================
+# PYTHON DEPENDENCIES
+# ============================================================================
+# All Python scripts use ONLY standard library modules - no third-party packages required!
+
+# GUI and Interface (Standard Library)
+# ------------------------------------
+# tkinter                 # Native GUI dialogs and interfaces (built-in)
+
+# Parallel Processing (Standard Library)
+# --------------------------------------
+# concurrent.futures      # High-level parallel execution (built-in)
+# multiprocessing         # Multi-core processing (built-in)  
+# threading               # Thread-based parallelism (built-in)
+
+# File and System Operations (Standard Library)
+# ---------------------------------------------
+# pathlib                 # Modern path handling (built-in)
+# subprocess              # System command execution (built-in)
+# os                      # Operating system interface (built-in)
+# sys                     # System-specific parameters (built-in)
+# shutil                  # High-level file operations (built-in)
+
+# Data Processing (Standard Library)
+# ----------------------------------
+# json                    # JSON parsing and generation (built-in)
+# re                      # Regular expressions (built-in)
+# glob                    # File pattern matching (built-in)
+# collections             # Specialized container datatypes (built-in)
+
+# Error Handling and Logging (Standard Library)
+# ---------------------------------------------
+# logging                 # Comprehensive logging (built-in)
+# traceback               # Error traceback (built-in)
+
+# Type Hints and Utilities (Standard Library)
+# -------------------------------------------
+# typing                  # Type hinting support (built-in)
+# functools               # Higher-order functions (built-in)
+# itertools               # Iterator creation tools (built-in)
+
+# Date and Time (Standard Library)
+# --------------------------------
+# datetime                # Date/time handling (built-in)
+# time                    # Time-related functions (built-in)
+
+# ============================================================================
+# SYSTEM DEPENDENCIES (Auto-installed via package managers)
+# ============================================================================
+
+# Essential Video Processing Tools
+# --------------------------------
+# ffmpeg                  # Core video processing and encoding
+# ffprobe                 # Video analysis and metadata extraction (part of FFmpeg)
+
+# GUI Components
+# --------------
+# zenity                  # Linux GUI dialogs and progress bars
+# osascript               # macOS AppleScript for native dialogs (built-in on macOS)
+
+# Advanced Tools
+# --------------
+# exiftool                # Comprehensive metadata manipulation
+# rclone                  # Cloud storage integration (Google Drive, etc.)
+# parallel                # GNU parallel for optimized multi-core processing
+# bc                      # Basic calculator for mathematical operations
+
+# ============================================================================
+# INSTALLATION COMMANDS
+# ============================================================================
+
+# macOS Installation (Homebrew)
+# -----------------------------
+# brew install ffmpeg zenity parallel bc exiftool rclone
+
+# Linux Installation (Ubuntu/Debian)
+# -----------------------------------
+# sudo apt update
+# sudo apt install ffmpeg zenity parallel bc exiftool rclone
+
+# Linux Installation (CentOS/RHEL)
+# ---------------------------------
+# sudo yum install ffmpeg zenity parallel bc perl-Image-ExifTool rclone
+
+# Linux Installation (Arch)
+# --------------------------
+# sudo pacman -S ffmpeg zenity parallel bc perl-image-exiftool rclone
+
+# ============================================================================
+# HARDWARE ACCELERATION SUPPORT
+# ============================================================================
+
+# Automatically detected and utilized when available:
+# 
+# macOS:
+# - VideoToolbox (built-in hardware acceleration)
+# - Apple Silicon optimization
+# 
+# Linux:
+# - NVENC (NVIDIA GPUs)
+# - VAAPI (Intel/AMD GPUs)  
+# - QuickSync (Intel CPUs)
+# 
+# Scripts automatically fallback to software encoding if hardware acceleration
+# is unavailable.
+
+# ============================================================================
+# VERIFICATION COMMANDS
+# ============================================================================
+
+# Verify core installations:
+# ffmpeg -version          # Check FFmpeg installation and capabilities
+# ffprobe -version         # Verify FFprobe functionality
+# rclone version           # Test cloud integration
+# exiftool -ver            # Confirm metadata tool availability
+
+# Test hardware acceleration:
+# ffmpeg -hwaccels         # List available hardware accelerators
+# ffmpeg -codecs | grep h264  # Check H.264 codec support
+
+# ============================================================================
+# PERFORMANCE OPTIMIZATION NOTES
+# ============================================================================
+
+# CPU Core Detection:
+# - Scripts automatically detect available CPU cores
+# - Optimal thread allocation: (cores - 1) for CPU-bound tasks
+# - I/O-bound tasks may use (cores × 2) for maximum throughput
+
+# Memory Management:
+# - Large video files processed in streaming chunks
+# - Automatic garbage collection during batch operations
+# - Progress tracking with minimal memory footprint
+
+# Hardware Acceleration:
+# - Automatic detection of available GPU acceleration
+# - Fallback to software encoding if hardware unavailable
+# - Platform-specific optimization (VideoToolbox, NVENC, etc.)
+
+# ============================================================================
+# CLOUD INTEGRATION SETUP
+# ============================================================================
+
+# Google Drive Configuration (rclone):
+# 1. Run: rclone config
+# 2. Choose "New remote"
+# 3. Select "Google Drive"
+# 4. Follow authentication prompts
+# 5. Test with: rclone lsd remote:
+
+# ============================================================================
+# TROUBLESHOOTING
+# ============================================================================
+
+# Common Issues and Solutions:
+
+# FFmpeg not found:
+# - macOS: brew install ffmpeg
+# - Linux: sudo apt install ffmpeg
+
+# GUI dialogs not working:
+# - Linux: sudo apt install zenity
+# - macOS: Uses built-in osascript (no action needed)
+
+# Permission errors:
+# - Make scripts executable: chmod +x *.sh
+# - Check file permissions: ls -la
+
+# Hardware acceleration not working:
+# - Check available accelerators: ffmpeg -hwaccels
+# - Verify GPU drivers are installed
+# - Scripts will automatically fallback to software encoding
+
+# Large file processing issues:
+# - Increase file limits: ulimit -n 4096
+# - Monitor disk space: df -h
+# - Use streaming processing for very large files
+
+# ============================================================================
+# DEBUG AND LOGGING
+# ============================================================================
+
+# Enable debug mode:
+# - Python scripts: python3 script-name.py --debug
+# - Bash scripts: bash -x script-name.sh
+
+# Log file locations:
+# - Desktop: ~/Desktop/script-name.log
+# - Real-time monitoring: tail -f ~/Desktop/script-name.log
+# - Error searching: grep -i error ~/Desktop/script-name.log
+
+# ============================================================================
+# VERSION COMPATIBILITY
+# ============================================================================
+
+# Minimum Requirements:
+# - Python: 3.8+ (uses only standard library)
+# - FFmpeg: 4.0+ (for hardware acceleration support)
+# - Bash: 4.0+ (for advanced scripting features)
+
+# Tested Platforms:
+# - macOS: 10.14+ (Intel and Apple Silicon)
+# - Linux: Ubuntu 18.04+, CentOS 7+, Arch Linux
+
+# Performance Notes:
+# - Apple Silicon Macs: Native VideoToolbox acceleration
+# - Intel Macs: QuickSync and VideoToolbox support
+# - Linux: NVENC, VAAPI, and software encoding
+
+# ============================================================================
+# SECURITY NOTES
+# ============================================================================
+
+# - All scripts process files locally (no data transmission except cloud uploads)
+# - Cloud credentials stored securely via rclone configuration
+# - No sensitive data logged to files
+# - File operations use secure temporary directories
+# - All network operations use HTTPS when available
+
+# ============================================================================
+# SCRIPT CATEGORIES SUMMARY
+# ============================================================================
+
+# Python Applications:
+# - video-wall-*.py           # Multi-video displays and streaming
+# - video-corruption-*.py     # Quality analysis and corruption detection  
+# - video-frame-*.py          # Frame interpolation and processing
+# - video-generate-*.py       # Thumbnail and preview generation
+# - png-to-*.py               # Image sequence to video conversion
+# - interpolate_frames.py     # Advanced frame interpolation
+# - metadata-mover.py         # Metadata management and organization
+
+# Bash Scripts:
+# - aspect-ratio-converter.sh # Intelligent aspect ratio conversion
+# - auto-crop-detector.sh     # Automatic black border detection
+# - video-crop-*.sh           # Professional cropping tools
+# - video-gdrive-move.sh      # Google Drive integration
+# - video-extract-audio.sh    # High-quality audio extraction
+# - video-corruption-scanner.sh # Hardware-accelerated quality verification
+# - gopro-metadata-fix.sh     # GoPro-specific metadata handling
+# - metadata-mover.sh         # ExifTool-based organization
+
+# ============================================================================

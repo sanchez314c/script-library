@@ -1,0 +1,8 @@
+2025-08-30 13:33:53,387 - INFO - System voice provider initialized successfully
+2025-08-30 13:33:53,842 - INFO - ElevenLabs provider initialized successfully
+2025-08-30 13:33:54,358 - ERROR - Application error: name 'Menu' is not defined
+2025-08-30 13:34:07,166 - INFO - System voice provider initialized successfully
+2025-08-30 13:34:07,489 - INFO - ElevenLabs provider initialized successfully
+2025-08-30 13:34:08,061 - ERROR - Application error: 'TTSApplication' object has no attribute 'voice_combo'
+2025-08-30 13:34:29,231 - INFO - System voice provider initialized successfully
+2025-08-30 13:34:29,574 - INFO - ElevenLabs provider initialized successfully

@@ -1,0 +1,53 @@
+# Core ML/Deep Learning
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+tensorflow-macos==2.12.0
+tensorflow-metal==1.0.0
+transformers==4.30.0
+scikit-learn==1.5.2
+huggingface-hub==0.26.2
+sentence-transformers==3.3.1
+
+# NLP and Text Processing
+spacy==3.8.2
+bertopic==0.15.0
+nltk==3.9.1
+python-Levenshtein==0.21.0
+umap-learn==0.5.5
+hdbscan==0.8.33
+
+# Data Processing
+numpy==1.23.5
+pandas==2.2.3
+ijson==3.2.0
+jsonschema==4.17.0
+
+# Visualization
+matplotlib==3.9.3
+plotly==5.24.1
+dash==2.18.2
+networkx==3.2.1
+wordcloud==1.9.4
+
+# PDF Generation and Document Processing
+reportlab==3.6.12
+fpdf==1.7.2
+
+# System and Utilities
+psutil==6.1.0
+tqdm==4.67.0
+
+# Development Tools
+black==24.10.0
+pylint==3.3.2
+ipython==8.18.1
+
+# Required Dependencies
+scipy==1.13.1
+numba==0.60.0
+pynndescent==0.5.13
+blis==1.0.0
+thinc==8.3.2
+tensorboard==2.12.3
+google-auth-oauthlib==0.4.6

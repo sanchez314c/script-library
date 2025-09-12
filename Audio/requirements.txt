@@ -1,0 +1,160 @@
+# Audio Processing Scripts Collection - Python Dependencies
+# ========================================================
+# 
+# This file contains all Python package dependencies required by the
+# Audio Processing Scripts Collection. Install all dependencies using:
+# 
+#     pip install -r requirements.txt
+# 
+# Or let individual scripts auto-install them as needed.
+#
+# Generated: 2025-01-23
+# Version: 1.0.0
+# Author: sanchez314c@speedheathens.com
+
+# Core Audio Processing
+# ---------------------
+pydub>=0.25.0           # Audio file manipulation and conversion
+mutagen>=1.45.0         # Audio metadata reading and writing
+pyttsx3>=2.90           # Cross-platform text-to-speech library
+
+# HTTP Requests and Web Scraping
+# ------------------------------
+requests>=2.25.0        # HTTP library for API calls
+beautifulsoup4>=4.9.0   # HTML/XML parsing for web scraping
+lxml>=4.6.0             # XML and HTML parser (faster than built-in)
+
+# Spotify Integration
+# ------------------
+spotipy>=2.20.0         # Spotify Web API wrapper
+
+# macOS System Integration
+# -----------------------
+pyobjc-framework-Cocoa>=8.0  # macOS Cocoa framework integration (menubar apps)
+pyobjc-core>=8.0             # Core PyObjC functionality
+
+# Development and Debugging
+# -------------------------
+# These are optional but recommended for development
+pytest>=6.0.0          # Testing framework (optional)
+black>=21.0.0           # Code formatter (optional)
+flake8>=3.9.0           # Code linter (optional)
+
+# System Dependencies (External)
+# ==============================
+# These must be installed separately via Homebrew or system package manager:
+#
+# FFmpeg - Audio/video processing
+#   brew install ffmpeg
+#
+# SQLite3 - Database access (usually included with macOS)
+#   Should be available by default
+#
+# Python 3.6+ - Required Python version
+#   brew install python@3.9  (or use system Python)
+
+# Built-in Modules (No Installation Required)
+# ===========================================
+# The following modules are part of Python standard library:
+# - tkinter         # GUI dialogs and interfaces
+# - sqlite3         # SQLite database interface
+# - pathlib         # Modern path handling
+# - json            # JSON parsing and generation
+# - hashlib         # Cryptographic hash functions
+# - multiprocessing # Parallel processing
+# - concurrent.futures # High-level parallel execution
+# - threading       # Thread-based parallelism
+# - tempfile        # Temporary file and directory creation
+# - logging         # Logging facility
+# - argparse        # Command-line argument parsing
+# - subprocess      # Subprocess management
+# - time            # Time-related functions
+# - os              # Operating system interface
+# - sys             # System-specific parameters
+# - re              # Regular expressions
+
+# Optional Dependencies
+# ====================
+# These packages provide enhanced functionality but are not required:
+
+# Enhanced audio processing
+# librosa>=0.8.0          # Advanced audio analysis (large dependency)
+# scipy>=1.6.0            # Scientific computing for audio analysis
+
+# Enhanced macOS integration  
+# pyobjc-framework-AVFoundation>=8.0  # Advanced audio/video framework
+# pyobjc-framework-AppKit>=8.0        # Enhanced GUI capabilities
+
+# Enhanced web scraping
+# selenium>=3.141.0       # Web browser automation (for complex lyrics sites)
+# fake-useragent>=0.1.11  # Random user agent generation
+
+# Data analysis and export
+# pandas>=1.2.0           # Data analysis (for advanced reporting)
+# numpy>=1.20.0           # Numerical computing
+
+# Image processing (for podcast artwork)
+# Pillow>=8.0.0           # Python Imaging Library
+
+# Installation Notes
+# ==================
+# 
+# 1. Automatic Installation:
+#    All scripts will automatically install required dependencies
+#    when run for the first time. No manual installation needed.
+#
+# 2. Manual Installation:
+#    To install all dependencies at once:
+#    
+#    pip install -r requirements.txt
+#
+# 3. Virtual Environment (Recommended):
+#    Create an isolated environment for these scripts:
+#    
+#    python3 -m venv audio-scripts-env
+#    source audio-scripts-env/bin/activate
+#    pip install -r requirements.txt
+#
+# 4. System Dependencies:
+#    Some functionality requires external tools:
+#    
+#    # Install FFmpeg for audio conversion
+#    brew install ffmpeg
+#    
+#    # Install Homebrew if not already installed
+#    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+#
+# 5. macOS Specific:
+#    PyObjC frameworks are only needed on macOS for enhanced integration.
+#    They will be automatically skipped on other platforms.
+#
+# 6. Troubleshooting:
+#    If you encounter installation issues:
+#    
+#    # Upgrade pip first
+#    python3 -m pip install --upgrade pip
+#    
+#    # Clear pip cache
+#    python3 -m pip cache purge
+#    
+#    # Force reinstall problematic packages
+#    pip install --force-reinstall package_name
+#
+# Version Compatibility
+# =====================
+# 
+# Minimum Python Version: 3.6
+# Recommended Python Version: 3.8+
+# Tested Platforms: macOS 10.14+
+# 
+# Package versions specified ensure compatibility and stability.
+# Newer versions may work but have not been extensively tested.
+
+# Security Notes
+# ==============
+# 
+# - API credentials are stored locally in JSON files
+# - No credentials are transmitted except to official APIs
+# - All web requests use HTTPS when available
+# - File operations use secure temporary directories
+# - No sensitive data is logged to files

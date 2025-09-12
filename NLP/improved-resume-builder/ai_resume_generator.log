@@ -1,0 +1,1048 @@
+2024-11-23 22:02:16,911 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-23 22:02:17,248 - DEBUG - https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:02:19,421 - DEBUG - https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+2024-11-23 22:02:19,993 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-23 22:02:19,994 - DEBUG - Attempting to acquire lock 12689120080 on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/e5c73d8a50df1f56fb5b0b8002d7cf4010afdccb.lock
+2024-11-23 22:02:19,994 - DEBUG - Lock 12689120080 acquired on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/e5c73d8a50df1f56fb5b0b8002d7cf4010afdccb.lock
+2024-11-23 22:02:20,088 - DEBUG - https://huggingface.co:443 "GET /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/11" 200 48
+2024-11-23 22:02:20,159 - DEBUG - Attempting to release lock 12689120080 on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/e5c73d8a50df1f56fb5b0b8002d7cf4010afdccb.lock
+2024-11-23 22:02:20,160 - DEBUG - Lock 12689120080 released on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/e5c73d8a50df1f56fb5b0b8002d7cf4010afdccb.lock
+2024-11-23 22:02:20,257 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/11" 200 0
+2024-11-23 22:02:20,258 - DEBUG - Attempting to acquire lock 12689120080 on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/fb140275c155a9c7c5a3b3e0e77a9e839594a938.lock
+2024-11-23 22:02:20,258 - DEBUG - Lock 12689120080 acquired on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/fb140275c155a9c7c5a3b3e0e77a9e839594a938.lock
+2024-11-23 22:02:20,385 - DEBUG - https://huggingface.co:443 "GET /bert-base-uncased/resolve/main/vocab.txt HTTP/11" 200 231508
+2024-11-23 22:02:20,615 - DEBUG - Attempting to release lock 12689120080 on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/fb140275c155a9c7c5a3b3e0e77a9e839594a938.lock
+2024-11-23 22:02:20,615 - DEBUG - Lock 12689120080 released on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/fb140275c155a9c7c5a3b3e0e77a9e839594a938.lock
+2024-11-23 22:02:20,704 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/11" 404 0
+2024-11-23 22:02:20,800 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/11" 404 0
+2024-11-23 22:02:20,890 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/11" 200 0
+2024-11-23 22:02:20,891 - DEBUG - Attempting to acquire lock 12678591120 on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/949a6f013d67eb8a5b4b5b46026217b888021b88.lock
+2024-11-23 22:02:20,891 - DEBUG - Lock 12678591120 acquired on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/949a6f013d67eb8a5b4b5b46026217b888021b88.lock
+2024-11-23 22:02:21,007 - DEBUG - https://huggingface.co:443 "GET /bert-base-uncased/resolve/main/tokenizer.json HTTP/11" 200 466062
+2024-11-23 22:02:21,247 - DEBUG - Attempting to release lock 12678591120 on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/949a6f013d67eb8a5b4b5b46026217b888021b88.lock
+2024-11-23 22:02:21,248 - DEBUG - Lock 12678591120 released on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/949a6f013d67eb8a5b4b5b46026217b888021b88.lock
+2024-11-23 22:02:21,338 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:02:21,339 - DEBUG - Attempting to acquire lock 12678316784 on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/45a2321a7ecfdaaf60a6c1fd7f5463994cc8907d.lock
+2024-11-23 22:02:21,339 - DEBUG - Lock 12678316784 acquired on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/45a2321a7ecfdaaf60a6c1fd7f5463994cc8907d.lock
+2024-11-23 22:02:21,437 - DEBUG - https://huggingface.co:443 "GET /bert-base-uncased/resolve/main/config.json HTTP/11" 200 570
+2024-11-23 22:02:21,438 - DEBUG - Attempting to release lock 12678316784 on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/45a2321a7ecfdaaf60a6c1fd7f5463994cc8907d.lock
+2024-11-23 22:02:21,439 - DEBUG - Lock 12678316784 released on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/45a2321a7ecfdaaf60a6c1fd7f5463994cc8907d.lock
+2024-11-23 22:02:21,589 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:02:21,676 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:02:21,773 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/model.safetensors HTTP/11" 302 0
+2024-11-23 22:02:21,775 - DEBUG - Attempting to acquire lock 12768131840 on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/68d45e234eb4a928074dfd868cead0219ab85354cc53d20e772753c6bb9169d3.lock
+2024-11-23 22:02:21,775 - DEBUG - Lock 12768131840 acquired on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/68d45e234eb4a928074dfd868cead0219ab85354cc53d20e772753c6bb9169d3.lock
+2024-11-23 22:02:21,777 - DEBUG - Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+2024-11-23 22:02:22,136 - DEBUG - https://cdn-lfs.hf.co:443 "GET /bert-base-uncased/68d45e234eb4a928074dfd868cead0219ab85354cc53d20e772753c6bb9169d3?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1732675358&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjY3NTM1OH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9iZXJ0LWJhc2UtdW5jYXNlZC82OGQ0NWUyMzRlYjRhOTI4MDc0ZGZkODY4Y2VhZDAyMTlhYjg1MzU0Y2M1M2QyMGU3NzI3NTNjNmJiOTE2OWQzP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=MkqCHosTOuWAEkj2GitSJ9cYotBdbFALNF6y~JdxAThZGmqLPL7DcbHpC42M8LSSViy2CTDaJNv3VHmK7z7vrvgDefQYo01Z4ZgQ1JjKJs8T~TUNxUOcODDKCw6tOg6Zi8Fw14yPi7CnQK7YwxDkUdUbRDgBKXfarY~jiRKdzhv1UvycM0l5IAyElT5jXhnWLV5Ygrp~fu2L2RveocUTiSAK6UXhNErAKfHN13lc42BaHZ5VLk-TDNdeNFaNi0CUzZ1DZuYX7VpU8UTGfSSxI~PqblTr9RbxpcnJFrWw6non2MGO6pNyF0AYmjde8vfVYXJT9-R71uAVeWMDRourag__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/11" 200 440449768
+2024-11-23 22:05:09,320 - DEBUG - Attempting to release lock 12768131840 on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/68d45e234eb4a928074dfd868cead0219ab85354cc53d20e772753c6bb9169d3.lock
+2024-11-23 22:05:09,321 - DEBUG - Lock 12768131840 released on /Users/heathen-admin/.cache/huggingface/hub/.locks/models--bert-base-uncased/68d45e234eb4a928074dfd868cead0219ab85354cc53d20e772753c6bb9169d3.lock
+2024-11-23 22:05:12,381 - ERROR - Error during resume generation: [Errno 2] No such file or directory: 'conversations.json'
+2024-11-23 22:06:40,667 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-23 22:06:40,937 - DEBUG - https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:06:42,816 - DEBUG - https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+2024-11-23 22:06:43,334 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-23 22:06:43,466 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:06:43,595 - DEBUG - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:06:59,846 - ERROR - Error during resume generation: argument of type 'NoneType' is not iterable
+2024-11-23 22:16:21,407 - DEBUG - [connectionpool.py:1051] - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-23 22:16:21,685 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:16:23,649 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+2024-11-23 22:16:24,206 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-23 22:16:24,345 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:16:24,452 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:16:35,869 - INFO - [nlp-resume-builder_rev3.py:68] - Initializing AIResumeGenerator
+2024-11-23 22:16:35,869 - DEBUG - [nlp-resume-builder_rev3.py:76] - Expanding 32 keywords with synonyms
+2024-11-23 22:16:38,379 - INFO - [nlp-resume-builder_rev3.py:89] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-23 22:16:39,017 - INFO - [nlp-resume-builder_rev3.py:94] - Successfully loaded JSON data
+2024-11-23 22:16:39,017 - DEBUG - [nlp-resume-builder_rev3.py:95] - Data structure type: <class 'list'>
+2024-11-23 22:16:39,017 - DEBUG - [nlp-resume-builder_rev3.py:101] - Processing multiple conversations: 913
+2024-11-23 22:16:39,019 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Serious conversation needed', 'create_time': 1719658555.414657, 'update_time': 1719689410.641305, 'mapping': {'52925d2d-b996-484a-ab3c-a65de1a97e25': {'id': '52925d2d-b996-484a-ab3c-a65de1a...
+2024-11-23 22:16:42,302 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2d536-8904-4ad1-8817-e825c8c2ed5e: sequence item 0: expected str instance, dict found
+2024-11-23 22:16:43,840 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa20a31-3e9d-485e-a751-cd0b7293f70f: sequence item 0: expected str instance, dict found
+2024-11-23 22:16:46,750 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Customize Ubuntu Shortcuts Mimic Mac', 'create_time': 1719686029.215762, 'update_time': 1719687910.577244, 'mapping': {'ce85d605-3df0-43a3-a1c5-280809799759': {'id': 'ce85d605-3df0-43a3-a1c...
+2024-11-23 22:16:50,817 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa28a8a-1591-4653-af7e-085adeebe546: sequence item 0: expected str instance, dict found
+2024-11-23 22:16:51,353 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '***PROJECT: Ricksaw Tasks', 'create_time': 1719684923.210456, 'update_time': 1719686007.955456, 'mapping': {'507fc0fe-354a-4046-abd0-bfa693839273': {'id': '507fc0fe-354a-4046-abd0-bfa693839...
+2024-11-23 22:16:53,660 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa229c4-f2fb-4d56-905d-156a0613aab3: sequence item 0: expected str instance, dict found
+2024-11-23 22:16:54,036 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '*Everything Seen: Tech Genius Vibes', 'create_time': 1719557253.906401, 'update_time': 1719642715.905548, 'mapping': {'589f6f55-c35f-4622-8111-a789f830e786': {'id': '589f6f55-c35f-4622-8111...
+2024-11-23 22:16:54,255 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa28e45-b25a-4dfc-84f3-a2ddb7a9903c: sequence item 0: expected str instance, dict found
+2024-11-23 22:16:56,282 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Automate Text Analysis Protocol', 'create_time': 1719629770.045046, 'update_time': 1719640297.686183, 'mapping': {'790b0ae5-3895-49c0-8dc8-c0664d41a7ce': {'id': '790b0ae5-3895-49c0-8dc8-c06...
+2024-11-23 22:17:09,289 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': "Organize Jay's messy tasks", 'create_time': 1719613606.178396, 'update_time': 1719636044.759221, 'mapping': {'08ee848c-d17a-4b66-92ef-ed9c069f501f': {'id': '08ee848c-d17a-4b66-92ef-ed9c069f...
+2024-11-23 22:17:13,861 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa21411-cd05-44fc-a531-bbba6ed91b35: sequence item 0: expected str instance, dict found
+2024-11-23 22:17:14,499 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Dump Text Into Conversation', 'create_time': 1719634036.461297, 'update_time': 1719634199.301312, 'mapping': {'bb780f53-6bb2-4be4-abdd-7c7b229fc1ec': {'id': 'bb780f53-6bb2-4be4-abdd-7c7b229...
+2024-11-23 22:17:15,020 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Help with Matrix hacking', 'create_time': 1719626703.402159, 'update_time': 1719629759.40977, 'mapping': {'743ccef2-c8d6-45c4-a58e-6240526583b6': {'id': '743ccef2-c8d6-45c4-a58e-6240526583b...
+2024-11-23 22:17:23,868 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Amping up specifics!', 'create_time': 1719598793.870891, 'update_time': 1719626956.915942, 'mapping': {'e40530be-3580-458d-aebf-f0b4972ca90c': {'id': 'e40530be-3580-458d-aebf-f0b4972ca90c',...
+2024-11-23 22:17:38,469 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '*626 - NLP Script', 'create_time': 1719376686.05139, 'update_time': 1719626691.285643, 'mapping': {'2c20c1a8-e245-4917-81a4-04b57f37924f': {'id': '2c20c1a8-e245-4917-81a4-04b57f37924f', 'me...
+2024-11-23 22:18:02,353 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2a9b6-8415-4186-9f5a-632291575782: sequence item 0: expected str instance, dict found
+2024-11-23 22:18:03,977 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Integrating Todo with ChatGPT', 'create_time': 1719611206.200163, 'update_time': 1719611505.689359, 'mapping': {'dbd1ef0e-77b1-4a1e-ad37-f052c7db27b4': {'id': 'dbd1ef0e-77b1-4a1e-ad37-f052c...
+2024-11-23 22:18:05,005 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa25542-18d6-4f5b-bb81-1eb5e70dc9ad: sequence item 0: expected str instance, dict found
+2024-11-23 22:18:05,329 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Data Analysis Extraordinaire', 'create_time': 1719598734.147967, 'update_time': 1719598749.428949, 'mapping': {'697f8921-e9be-450d-9666-f5ae5da7f35a': {'id': '697f8921-e9be-450d-9666-f5ae5d...
+2024-11-23 22:18:05,580 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Training Data Set Creation', 'create_time': 1719564141.205905, 'update_time': 1719597637.048171, 'mapping': {'1a9d55d0-20f4-4515-8969-3036a8e75bf7': {'id': '1a9d55d0-20f4-4515-8969-3036a8e7...
+2024-11-23 22:18:12,773 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Questioning reality, Manipulation Response', 'create_time': 1719562723.555834, 'update_time': 1719563389.123461, 'mapping': {'4f0f7d63-5960-45af-9f77-42a1a094741c': {'id': '4f0f7d63-5960-45...
+2024-11-23 22:18:13,280 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa240ab-0740-44bf-ba4c-bc289c7894d4: sequence item 0: expected str instance, dict found
+2024-11-23 22:18:14,062 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Python Script for Documents', 'create_time': 1719560977.140854, 'update_time': 1719561328.490622, 'mapping': {'715aeb61-02fd-4620-9059-13b62d890b34': {'id': '715aeb61-02fd-4620-9059-13b62d8...
+2024-11-23 22:18:14,842 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '*626 - Rick EMERGES!', 'create_time': 1719365034.117668, 'update_time': 1719560668.405744, 'mapping': {'89757a5d-e773-4e78-8935-cc2569f4dc81': {'id': '89757a5d-e773-4e78-8935-cc2569f4dc81',...
+2024-11-23 22:18:32,106 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Conversation Wrap-Up Summary', 'create_time': 1719550835.92766, 'update_time': 1719553482.578186, 'mapping': {'bc142b77-f4a1-4f4e-8457-6b1a39590df4': {'id': 'bc142b77-f4a1-4f4e-8457-6b1a395...
+2024-11-23 22:18:36,411 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Enable Dictation in Ubuntu', 'create_time': 1719549751.053081, 'update_time': 1719549928.19961, 'mapping': {'08f65214-e4e7-49d0-9f32-e5593c71c132': {'id': '08f65214-e4e7-49d0-9f32-e5593c71c...
+2024-11-23 22:18:36,913 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Drop interdimensional knowledge bombs', 'create_time': 1719543878.621905, 'update_time': 1719548940.028146, 'mapping': {'f96d848b-ec0b-4b35-b681-ed7dd5af1d17': {'id': 'f96d848b-ec0b-4b35-b6...
+2024-11-23 22:18:37,530 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Alright Rick you there', 'create_time': 1719541871.414149, 'update_time': 1719543513.077697, 'mapping': {'e4610ccd-4726-457f-8008-a725951a3ad2': {'id': 'e4610ccd-4726-457f-8008-a725951a3ad2...
+2024-11-23 22:18:39,742 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Multiverse Hack: Cosmic Wisdom', 'create_time': 1719532350.272923, 'update_time': 1719538502.205937, 'mapping': {'a019ecc7-7889-4b5d-8f14-7404ad979ea2': {'id': 'a019ecc7-7889-4b5d-8f14-7404...
+2024-11-23 22:18:44,802 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '*627 - Optimize Async Script Execution', 'create_time': 1719490852.152142, 'update_time': 1719537312.304162, 'mapping': {'6007ad90-4285-4d9e-a87c-bed2b6133702': {'id': '6007ad90-4285-4d9e-a...
+2024-11-23 22:19:03,237 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': "*627 - Chillin' and chattin'", 'create_time': 1719480986.817606, 'update_time': 1719532151.985867, 'mapping': {'6e7699c1-1475-4614-ae34-cc60182a144b': {'id': '6e7699c1-1475-4614-ae34-cc6018...
+2024-11-23 22:19:04,621 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2fcd3-9873-41e2-ad45-8438a45755ff: sequence item 0: expected str instance, dict found
+2024-11-23 22:19:05,169 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa27b82-0f7c-4ca1-9d16-fa106c7eb850: sequence item 0: expected str instance, dict found
+2024-11-23 22:19:12,901 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa25432-420c-4bfd-b1ee-91878a659cde: sequence item 0: expected str instance, dict found
+2024-11-23 22:19:19,300 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '*627 - Automated Python Environment Setup', 'create_time': 1719491107.664779, 'update_time': 1719532141.642306, 'mapping': {'eb0b6b4d-1b99-46ae-867b-ee49ede9402c': {'id': 'eb0b6b4d-1b99-46a...
+2024-11-23 22:19:19,729 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '627 - Trace/GeoIP IP Address Linux', 'create_time': 1719484665.98071, 'update_time': 1719532102.783766, 'mapping': {'fe8dc031-ec58-4e3f-a18e-46d84bd1a191': {'id': 'fe8dc031-ec58-4e3f-a18e-4...
+2024-11-23 22:19:19,969 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '627 - Digital Pet HTTP Analysis', 'create_time': 1719480922.426266, 'update_time': 1719532091.485825, 'mapping': {'e193ce16-c660-4fab-88e6-97ea13813b76': {'id': 'e193ce16-c660-4fab-88e6-97e...
+2024-11-23 22:19:20,246 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': "Rick and Jay's Multiverse Adventure", 'create_time': 1719478389.350642, 'update_time': 1719480841.670712, 'mapping': {'c9997667-edc5-479f-8224-784beb8e90dd': {'id': 'c9997667-edc5-479f-8224...
+2024-11-23 22:19:20,289 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node a0a2ed32-ae27-471c-8b88-67ee38e55250: sequence item 0: expected str instance, dict found
+2024-11-23 22:19:20,315 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - ACCESS GRANTED!', 'create_time': 1719374458.548215, 'update_time': 1719480089.393369, 'mapping': {'92f45086-8b63-4933-8116-29126ff2c688': {'id': '92f45086-8b63-4933-8116-29126ff2c688'...
+2024-11-23 22:19:24,197 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa269db-4b77-494e-951a-61db320bded6: sequence item 0: expected str instance, dict found
+2024-11-23 22:19:25,742 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa29fe3-2471-4316-9a26-ec9dcb0b631e: sequence item 0: expected str instance, dict found
+2024-11-23 22:19:26,004 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa26946-e038-4cf9-a857-688616515961: sequence item 0: expected str instance, dict found
+2024-11-23 22:19:26,731 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa25184-c21d-4fbc-850d-3b5ae4d862a9: sequence item 0: expected str instance, dict found
+2024-11-23 22:19:27,426 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Rick...that you?', 'create_time': 1719378018.464181, 'update_time': 1719479661.192822, 'mapping': {'a9b3d53f-a3da-40c4-bbfb-fb9b76fb5855': {'id': 'a9b3d53f-a3da-40c4-bbfb-fb9b76fb5855...
+2024-11-23 22:19:29,434 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2425f-2b69-497b-8b4d-23ef78c402a9: sequence item 0: expected str instance, dict found
+2024-11-23 22:19:29,697 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - LLM Online Course Outline', 'create_time': 1719382331.308599, 'update_time': 1719479638.433855, 'mapping': {'107fd4a9-3c01-4f1d-98ea-127338ca2371': {'id': '107fd4a9-3c01-4f1d-98ea-127...
+2024-11-23 22:19:33,809 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Emergent AGENT', 'create_time': 1719383298.400005, 'update_time': 1719479630.880541, 'mapping': {'285e0ed5-2e40-4b77-84a5-6eb287669a7d': {'id': '285e0ed5-2e40-4b77-84a5-6eb287669a7d',...
+2024-11-23 22:19:34,669 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Model Context and Response', 'create_time': 1719383689.170813, 'update_time': 1719479604.741517, 'mapping': {'c65d91e3-81c9-4f52-902d-070a1c68b77f': {'id': 'c65d91e3-81c9-4f52-902d-07...
+2024-11-23 22:19:38,408 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Repeate Everything3', 'create_time': 1719384470.925781, 'update_time': 1719479595.991763, 'mapping': {'00d62b69-3b87-4bfb-8064-c8d3e7d5739a': {'id': '00d62b69-3b87-4bfb-8064-c8d3e7d57...
+2024-11-23 22:19:38,740 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Repeate EVERYTHING2', 'create_time': 1719385390.524067, 'update_time': 1719479540.871829, 'mapping': {'a7a479b8-71a7-46db-946d-01662ac3c87c': {'id': 'a7a479b8-71a7-46db-946d-01662ac3c...
+2024-11-23 22:19:40,155 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Heyrick.txt 2', 'create_time': 1719385129.288716, 'update_time': 1719479499.64499, 'mapping': {'bb4f0a5d-9804-4c17-aed5-a5e62c2876b2': {'id': 'bb4f0a5d-9804-4c17-aed5-a5e62c2876b2', '...
+2024-11-23 22:21:17,754 - DEBUG - [connectionpool.py:1051] - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-23 22:21:18,091 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:21:18,215 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/model.safetensors HTTP/11" 404 0
+2024-11-23 22:21:18,218 - DEBUG - [connectionpool.py:1051] - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-23 22:21:18,775 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "GET /api/models/sshleifer/distilbart-cnn-12-6 HTTP/11" 200 5344
+2024-11-23 22:21:18,978 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "GET /api/models/sshleifer/distilbart-cnn-12-6/commits/main HTTP/11" 200 6683
+2024-11-23 22:21:18,996 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+2024-11-23 22:21:19,246 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "GET /api/models/sshleifer/distilbart-cnn-12-6/discussions?p=0 HTTP/11" 200 7516
+2024-11-23 22:21:19,416 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-23 22:21:19,461 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "GET /api/models/sshleifer/distilbart-cnn-12-6/commits/refs%2Fpr%2F13 HTTP/11" 200 6988
+2024-11-23 22:21:19,464 - DEBUG - [connectionpool.py:1051] - Starting new HTTPS connection (1): safetensors-convert.hf.space:443
+2024-11-23 22:21:19,571 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:21:19,667 - DEBUG - [connectionpool.py:546] - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/11" 200 0
+2024-11-23 22:21:20,039 - DEBUG - [connectionpool.py:546] - https://safetensors-convert.hf.space:443 "POST /call/run HTTP/11" 503 30
+2024-11-23 22:21:31,091 - INFO - [nlp-resume-builder_rev3.py:68] - Initializing AIResumeGenerator
+2024-11-23 22:21:31,091 - DEBUG - [nlp-resume-builder_rev3.py:76] - Expanding 32 keywords with synonyms
+2024-11-23 22:21:33,714 - INFO - [nlp-resume-builder_rev3.py:89] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-23 22:21:34,357 - INFO - [nlp-resume-builder_rev3.py:94] - Successfully loaded JSON data
+2024-11-23 22:21:34,357 - DEBUG - [nlp-resume-builder_rev3.py:95] - Data structure type: <class 'list'>
+2024-11-23 22:21:34,357 - DEBUG - [nlp-resume-builder_rev3.py:101] - Processing multiple conversations: 913
+2024-11-23 22:21:34,359 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Serious conversation needed', 'create_time': 1719658555.414657, 'update_time': 1719689410.641305, 'mapping': {'52925d2d-b996-484a-ab3c-a65de1a97e25': {'id': '52925d2d-b996-484a-ab3c-a65de1a...
+2024-11-23 22:21:37,193 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2d536-8904-4ad1-8817-e825c8c2ed5e: sequence item 0: expected str instance, dict found
+2024-11-23 22:21:38,670 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa20a31-3e9d-485e-a751-cd0b7293f70f: sequence item 0: expected str instance, dict found
+2024-11-23 22:21:41,526 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Customize Ubuntu Shortcuts Mimic Mac', 'create_time': 1719686029.215762, 'update_time': 1719687910.577244, 'mapping': {'ce85d605-3df0-43a3-a1c5-280809799759': {'id': 'ce85d605-3df0-43a3-a1c...
+2024-11-23 22:21:45,585 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa28a8a-1591-4653-af7e-085adeebe546: sequence item 0: expected str instance, dict found
+2024-11-23 22:21:46,168 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '***PROJECT: Ricksaw Tasks', 'create_time': 1719684923.210456, 'update_time': 1719686007.955456, 'mapping': {'507fc0fe-354a-4046-abd0-bfa693839273': {'id': '507fc0fe-354a-4046-abd0-bfa693839...
+2024-11-23 22:21:48,483 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa229c4-f2fb-4d56-905d-156a0613aab3: sequence item 0: expected str instance, dict found
+2024-11-23 22:21:48,875 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '*Everything Seen: Tech Genius Vibes', 'create_time': 1719557253.906401, 'update_time': 1719642715.905548, 'mapping': {'589f6f55-c35f-4622-8111-a789f830e786': {'id': '589f6f55-c35f-4622-8111...
+2024-11-23 22:21:49,094 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa28e45-b25a-4dfc-84f3-a2ddb7a9903c: sequence item 0: expected str instance, dict found
+2024-11-23 22:21:51,063 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Automate Text Analysis Protocol', 'create_time': 1719629770.045046, 'update_time': 1719640297.686183, 'mapping': {'790b0ae5-3895-49c0-8dc8-c0664d41a7ce': {'id': '790b0ae5-3895-49c0-8dc8-c06...
+2024-11-23 22:22:04,073 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': "Organize Jay's messy tasks", 'create_time': 1719613606.178396, 'update_time': 1719636044.759221, 'mapping': {'08ee848c-d17a-4b66-92ef-ed9c069f501f': {'id': '08ee848c-d17a-4b66-92ef-ed9c069f...
+2024-11-23 22:22:08,579 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa21411-cd05-44fc-a531-bbba6ed91b35: sequence item 0: expected str instance, dict found
+2024-11-23 22:22:09,209 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Dump Text Into Conversation', 'create_time': 1719634036.461297, 'update_time': 1719634199.301312, 'mapping': {'bb780f53-6bb2-4be4-abdd-7c7b229fc1ec': {'id': 'bb780f53-6bb2-4be4-abdd-7c7b229...
+2024-11-23 22:22:09,722 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Help with Matrix hacking', 'create_time': 1719626703.402159, 'update_time': 1719629759.40977, 'mapping': {'743ccef2-c8d6-45c4-a58e-6240526583b6': {'id': '743ccef2-c8d6-45c4-a58e-6240526583b...
+2024-11-23 22:22:18,531 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Amping up specifics!', 'create_time': 1719598793.870891, 'update_time': 1719626956.915942, 'mapping': {'e40530be-3580-458d-aebf-f0b4972ca90c': {'id': 'e40530be-3580-458d-aebf-f0b4972ca90c',...
+2024-11-23 22:22:32,225 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '*626 - NLP Script', 'create_time': 1719376686.05139, 'update_time': 1719626691.285643, 'mapping': {'2c20c1a8-e245-4917-81a4-04b57f37924f': {'id': '2c20c1a8-e245-4917-81a4-04b57f37924f', 'me...
+2024-11-23 22:22:55,067 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2a9b6-8415-4186-9f5a-632291575782: sequence item 0: expected str instance, dict found
+2024-11-23 22:22:56,656 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Integrating Todo with ChatGPT', 'create_time': 1719611206.200163, 'update_time': 1719611505.689359, 'mapping': {'dbd1ef0e-77b1-4a1e-ad37-f052c7db27b4': {'id': 'dbd1ef0e-77b1-4a1e-ad37-f052c...
+2024-11-23 22:22:57,631 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa25542-18d6-4f5b-bb81-1eb5e70dc9ad: sequence item 0: expected str instance, dict found
+2024-11-23 22:22:57,919 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Data Analysis Extraordinaire', 'create_time': 1719598734.147967, 'update_time': 1719598749.428949, 'mapping': {'697f8921-e9be-450d-9666-f5ae5da7f35a': {'id': '697f8921-e9be-450d-9666-f5ae5d...
+2024-11-23 22:22:58,164 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Training Data Set Creation', 'create_time': 1719564141.205905, 'update_time': 1719597637.048171, 'mapping': {'1a9d55d0-20f4-4515-8969-3036a8e75bf7': {'id': '1a9d55d0-20f4-4515-8969-3036a8e7...
+2024-11-23 22:23:05,155 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Questioning reality, Manipulation Response', 'create_time': 1719562723.555834, 'update_time': 1719563389.123461, 'mapping': {'4f0f7d63-5960-45af-9f77-42a1a094741c': {'id': '4f0f7d63-5960-45...
+2024-11-23 22:23:05,651 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa240ab-0740-44bf-ba4c-bc289c7894d4: sequence item 0: expected str instance, dict found
+2024-11-23 22:23:06,431 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Python Script for Documents', 'create_time': 1719560977.140854, 'update_time': 1719561328.490622, 'mapping': {'715aeb61-02fd-4620-9059-13b62d890b34': {'id': '715aeb61-02fd-4620-9059-13b62d8...
+2024-11-23 22:23:07,223 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '*626 - Rick EMERGES!', 'create_time': 1719365034.117668, 'update_time': 1719560668.405744, 'mapping': {'89757a5d-e773-4e78-8935-cc2569f4dc81': {'id': '89757a5d-e773-4e78-8935-cc2569f4dc81',...
+2024-11-23 22:23:24,145 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Conversation Wrap-Up Summary', 'create_time': 1719550835.92766, 'update_time': 1719553482.578186, 'mapping': {'bc142b77-f4a1-4f4e-8457-6b1a39590df4': {'id': 'bc142b77-f4a1-4f4e-8457-6b1a395...
+2024-11-23 22:23:28,363 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Enable Dictation in Ubuntu', 'create_time': 1719549751.053081, 'update_time': 1719549928.19961, 'mapping': {'08f65214-e4e7-49d0-9f32-e5593c71c132': {'id': '08f65214-e4e7-49d0-9f32-e5593c71c...
+2024-11-23 22:23:28,868 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Drop interdimensional knowledge bombs', 'create_time': 1719543878.621905, 'update_time': 1719548940.028146, 'mapping': {'f96d848b-ec0b-4b35-b681-ed7dd5af1d17': {'id': 'f96d848b-ec0b-4b35-b6...
+2024-11-23 22:23:29,494 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Alright Rick you there', 'create_time': 1719541871.414149, 'update_time': 1719543513.077697, 'mapping': {'e4610ccd-4726-457f-8008-a725951a3ad2': {'id': 'e4610ccd-4726-457f-8008-a725951a3ad2...
+2024-11-23 22:23:31,503 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Multiverse Hack: Cosmic Wisdom', 'create_time': 1719532350.272923, 'update_time': 1719538502.205937, 'mapping': {'a019ecc7-7889-4b5d-8f14-7404ad979ea2': {'id': 'a019ecc7-7889-4b5d-8f14-7404...
+2024-11-23 22:23:36,400 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '*627 - Optimize Async Script Execution', 'create_time': 1719490852.152142, 'update_time': 1719537312.304162, 'mapping': {'6007ad90-4285-4d9e-a87c-bed2b6133702': {'id': '6007ad90-4285-4d9e-a...
+2024-11-23 22:23:54,535 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': "*627 - Chillin' and chattin'", 'create_time': 1719480986.817606, 'update_time': 1719532151.985867, 'mapping': {'6e7699c1-1475-4614-ae34-cc60182a144b': {'id': '6e7699c1-1475-4614-ae34-cc6018...
+2024-11-23 22:23:55,798 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2fcd3-9873-41e2-ad45-8438a45755ff: sequence item 0: expected str instance, dict found
+2024-11-23 22:23:56,346 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa27b82-0f7c-4ca1-9d16-fa106c7eb850: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:03,157 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa25432-420c-4bfd-b1ee-91878a659cde: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:09,033 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '*627 - Automated Python Environment Setup', 'create_time': 1719491107.664779, 'update_time': 1719532141.642306, 'mapping': {'eb0b6b4d-1b99-46ae-867b-ee49ede9402c': {'id': 'eb0b6b4d-1b99-46a...
+2024-11-23 22:24:09,442 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '627 - Trace/GeoIP IP Address Linux', 'create_time': 1719484665.98071, 'update_time': 1719532102.783766, 'mapping': {'fe8dc031-ec58-4e3f-a18e-46d84bd1a191': {'id': 'fe8dc031-ec58-4e3f-a18e-4...
+2024-11-23 22:24:09,675 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '627 - Digital Pet HTTP Analysis', 'create_time': 1719480922.426266, 'update_time': 1719532091.485825, 'mapping': {'e193ce16-c660-4fab-88e6-97ea13813b76': {'id': 'e193ce16-c660-4fab-88e6-97e...
+2024-11-23 22:24:09,959 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': "Rick and Jay's Multiverse Adventure", 'create_time': 1719478389.350642, 'update_time': 1719480841.670712, 'mapping': {'c9997667-edc5-479f-8224-784beb8e90dd': {'id': 'c9997667-edc5-479f-8224...
+2024-11-23 22:24:09,996 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node a0a2ed32-ae27-471c-8b88-67ee38e55250: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:10,028 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - ACCESS GRANTED!', 'create_time': 1719374458.548215, 'update_time': 1719480089.393369, 'mapping': {'92f45086-8b63-4933-8116-29126ff2c688': {'id': '92f45086-8b63-4933-8116-29126ff2c688'...
+2024-11-23 22:24:13,356 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa269db-4b77-494e-951a-61db320bded6: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:14,849 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa29fe3-2471-4316-9a26-ec9dcb0b631e: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:15,090 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa26946-e038-4cf9-a857-688616515961: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:15,805 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa25184-c21d-4fbc-850d-3b5ae4d862a9: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:16,531 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Rick...that you?', 'create_time': 1719378018.464181, 'update_time': 1719479661.192822, 'mapping': {'a9b3d53f-a3da-40c4-bbfb-fb9b76fb5855': {'id': 'a9b3d53f-a3da-40c4-bbfb-fb9b76fb5855...
+2024-11-23 22:24:18,498 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2425f-2b69-497b-8b4d-23ef78c402a9: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:18,760 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - LLM Online Course Outline', 'create_time': 1719382331.308599, 'update_time': 1719479638.433855, 'mapping': {'107fd4a9-3c01-4f1d-98ea-127338ca2371': {'id': '107fd4a9-3c01-4f1d-98ea-127...
+2024-11-23 22:24:22,376 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Emergent AGENT', 'create_time': 1719383298.400005, 'update_time': 1719479630.880541, 'mapping': {'285e0ed5-2e40-4b77-84a5-6eb287669a7d': {'id': '285e0ed5-2e40-4b77-84a5-6eb287669a7d',...
+2024-11-23 22:24:23,224 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Model Context and Response', 'create_time': 1719383689.170813, 'update_time': 1719479604.741517, 'mapping': {'c65d91e3-81c9-4f52-902d-070a1c68b77f': {'id': 'c65d91e3-81c9-4f52-902d-07...
+2024-11-23 22:24:26,881 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Repeate Everything3', 'create_time': 1719384470.925781, 'update_time': 1719479595.991763, 'mapping': {'00d62b69-3b87-4bfb-8064-c8d3e7d5739a': {'id': '00d62b69-3b87-4bfb-8064-c8d3e7d57...
+2024-11-23 22:24:27,180 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Repeate EVERYTHING2', 'create_time': 1719385390.524067, 'update_time': 1719479540.871829, 'mapping': {'a7a479b8-71a7-46db-946d-01662ac3c87c': {'id': 'a7a479b8-71a7-46db-946d-01662ac3c...
+2024-11-23 22:24:28,697 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Heyrick.txt 2', 'create_time': 1719385129.288716, 'update_time': 1719479499.64499, 'mapping': {'bb4f0a5d-9804-4c17-aed5-a5e62c2876b2': {'id': 'bb4f0a5d-9804-4c17-aed5-a5e62c2876b2', '...
+2024-11-23 22:24:30,516 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Heyrick.txt', 'create_time': 1719386054.028727, 'update_time': 1719479457.742127, 'mapping': {'453d6c61-5fa1-4489-b952-6b98c5a3e828': {'id': '453d6c61-5fa1-4489-b952-6b98c5a3e828', 'm...
+2024-11-23 22:24:33,477 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '627 - Teach Linux System Info', 'create_time': 1719432026.50335, 'update_time': 1719479429.213851, 'mapping': {'97b20380-b56d-4a06-8f05-19003dee787f': {'id': '97b20380-b56d-4a06-8f05-19003d...
+2024-11-23 22:24:34,958 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '626 - Repeate EVERYTHING', 'create_time': 1719457762.287814, 'update_time': 1719479398.080229, 'mapping': {'b0dca878-a2ef-4e0b-9002-15cdb0c410d1': {'id': 'b0dca878-a2ef-4e0b-9002-15cdb0c410...
+2024-11-23 22:24:36,346 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '627 - Ricks Full Run-down', 'create_time': 1719458422.708196, 'update_time': 1719479368.443624, 'mapping': {'b7602678-ede2-4367-81f9-954841c31c9b': {'id': 'b7602678-ede2-4367-81f9-954841c31...
+2024-11-23 22:24:36,691 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Calculate BTUs for Metal Building', 'create_time': 1719237056.573458, 'update_time': 1719478634.184752, 'mapping': {'546bf120-9f9d-404f-b0d4-366934b479a4': {'id': '546bf120-9f9d-404f-b0d4-3...
+2024-11-23 22:24:37,350 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Free Analytics Tools Comparison', 'create_time': 1719457120.600169, 'update_time': 1719478536.009267, 'mapping': {'68d35375-073d-48c6-b85c-84d4df6a13de': {'id': '68d35375-073d-48c6-b85c-84d...
+2024-11-23 22:24:37,998 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Window Placement Options Analysis', 'create_time': 1719354730.352144, 'update_time': 1719374588.852012, 'mapping': {'841d25e1-17c3-4ac5-98d1-bc1908c6310f': {'id': '841d25e1-17c3-4ac5-98d1-b...
+2024-11-23 22:24:37,999 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 9b01d2e4-6bda-4a21-82b7-0ecfe8c69fac: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:38,465 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node e18cdf9d-c347-4551-b134-b95fe2babcea: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:38,529 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Custom Window Sizes', 'create_time': 1719339633.515834, 'update_time': 1719374585.365666, 'mapping': {'5ba9bf97-0a08-4466-95da-2d1b78a0f9f9': {'id': '5ba9bf97-0a08-4466-95da-2d1b78a0f9f9', ...
+2024-11-23 22:24:39,132 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 Rick Test Protocol Initiated', 'create_time': 1719214497.246187, 'update_time': 1719364991.954761, 'mapping': {'bf483196-0146-4ade-bac8-f806b1a847a2': {'id': 'bf483196-0146-4ade-bac8-f806...
+2024-11-23 22:24:48,444 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Early LLM Authors Evolution', 'create_time': 1719364858.698087, 'update_time': 1719364876.062635, 'mapping': {'38cc0ccd-5e02-433a-995c-221278d5ed20': {'id': '38cc0ccd-5e02-433a-995c-221278d...
+2024-11-23 22:24:48,627 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'On The Other Side - CONT', 'create_time': 1719282412.761347, 'update_time': 1719361032.760689, 'mapping': {'3293e701-2720-4a85-a4fb-ebe72c41cd87': {'id': '3293e701-2720-4a85-a4fb-ebe72c41cd...
+2024-11-23 22:24:49,285 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2fbd4-da01-4ecd-bfab-329fb8fd4d48: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:50,253 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 9d196d99-5e01-451e-ad8a-8d8cbc2fb034: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:52,543 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa25fa3-da29-4b50-a4fb-2c7dd66a61e1: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:53,771 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 200cc2e8-fd91-4a66-8f97-64f20866a409: sequence item 0: expected str instance, dict found
+2024-11-23 22:24:55,163 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Secure Email Services Comparison', 'create_time': 1719254397.345719, 'update_time': 1719358698.0676, 'mapping': {'6ad535d7-a6ee-48ec-891b-d2a1353d213a': {'id': '6ad535d7-a6ee-48ec-891b-d2a1...
+2024-11-23 22:24:55,326 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Have Great Evening', 'create_time': 1719257089.960598, 'update_time': 1719358689.511524, 'mapping': {'7eba8c90-b484-48ae-9220-69f3cc0bf6d6': {'id': '7eba8c90-b484-48ae-9220-69f3cc0bf6d6', '...
+2024-11-23 22:24:55,490 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Programming Conundrum with Jason', 'create_time': 1719257977.880542, 'update_time': 1719358676.520469, 'mapping': {'1849ac09-2f28-40f9-905d-0231822f14f4': {'id': '1849ac09-2f28-40f9-905d-02...
+2024-11-23 22:24:55,569 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Reformat text for user', 'create_time': 1719271367.088836, 'update_time': 1719358668.370048, 'mapping': {'7e5458c9-38eb-4dff-8d93-23d1f75fee49': {'id': '7e5458c9-38eb-4dff-8d93-23d1f75fee49...
+2024-11-23 22:24:57,954 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'User Data Security Measures', 'create_time': 1719349437.073774, 'update_time': 1719354372.775003, 'mapping': {'558994c3-6922-4edd-8ee4-f269f3b22eec': {'id': '558994c3-6922-4edd-8ee4-f269f3b...
+2024-11-23 22:24:59,800 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Portal Problem Solving', 'create_time': 1719217421.215855, 'update_time': 1719271583.993641, 'mapping': {'d560b644-a367-49d6-a757-d5159e69de83': {'id': 'd560b644-a367-49d6-a757-d5159e69de83...
+2024-11-23 22:24:59,840 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 Almost 900 Conversations!', 'create_time': 1719229743.103538, 'update_time': 1719252961.451105, 'mapping': {'a63aaf56-baff-484e-8f2d-f772cd041321': {'id': 'a63aaf56-baff-484e-8f2d-f772cd0...
+2024-11-23 22:25:03,803 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '3 Ton AC = 36K BTU', 'create_time': 1719240593.090454, 'update_time': 1719252233.042058, 'mapping': {'67fee386-d810-42c3-8f57-da534e7d3ab2': {'id': '67fee386-d810-42c3-8f57-da534e7d3ab2', '...
+2024-11-23 22:25:03,939 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': "🛑 Tasks, Todo's & Sidechat", 'create_time': 1718415420.098744, 'update_time': 1719251554.78627, 'mapping': {'6b2aef0a-a4ed-48da-a3d7-39d77bf4c3cf': {'id': '6b2aef0a-a4ed-48da-a3d7-39d77bf4c...
+2024-11-23 22:25:13,817 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa28a6e-d47a-4ddc-bdc3-8ec0cdc2877e: sequence item 0: expected str instance, dict found
+2024-11-23 22:25:21,745 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 Problem Alert: Exploding Dimensions', 'create_time': 1719217568.200637, 'update_time': 1719232051.779088, 'mapping': {'4d544b24-f52a-484f-b04a-87e34c99b1c5': {'id': '4d544b24-f52a-484f-b0...
+2024-11-23 22:25:22,989 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Connection Issues Troubleshooting Tips', 'create_time': 1719220640.30406, 'update_time': 1719229816.708478, 'mapping': {'81bb5cf2-2522-4b5f-8b9c-3efebfa03856': {'id': '81bb5cf2-2522-4b5f-8b...
+2024-11-23 22:25:25,778 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa28769-a159-4adb-9213-3d0a9d46cf09: sequence item 0: expected str instance, dict found
+2024-11-23 22:25:30,536 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2135c-17a9-45a1-98a8-63b32dd6a13c: sequence item 0: expected str instance, dict found
+2024-11-23 22:25:42,194 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Ultimate MacPro nsmb.conf', 'create_time': 1719222121.858649, 'update_time': 1719229807.895734, 'mapping': {'e7b2b3d1-7622-4048-a9e1-101cfabd9864': {'id': 'e7b2b3d1-7622-4048-a9e1-101cfabd9...
+2024-11-23 22:25:43,850 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Proper StableDiffusion Install Ubuntu', 'create_time': 1719220039.688298, 'update_time': 1719220308.791538, 'mapping': {'f625b1d9-6055-4ea5-9674-ecc924d59ba8': {'id': 'f625b1d9-6055-4ea5-96...
+2024-11-23 22:25:45,215 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 Consciousness Upload: Theoretical Breakdown', 'create_time': 1718955299.425535, 'update_time': 1719216996.402721, 'mapping': {'b880fa8e-0cd0-4f67-be24-36f7944f56b8': {'id': 'b880fa8e-0cd0...
+2024-11-23 22:25:46,214 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa27407-5867-4b08-a023-dbf8f7d6e46b: sequence item 0: expected str instance, dict found
+2024-11-23 22:25:50,951 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2d126-a8b0-4e0f-9d4a-4791ff955457: sequence item 0: expected str instance, dict found
+2024-11-23 22:25:53,057 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2f8fe-54ca-4531-8c66-ce870d39291d: sequence item 0: expected str instance, dict found
+2024-11-23 22:25:55,983 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2a1b9-5ba2-4019-bc21-de64dedda9f5: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:01,534 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Troubleshoot Docker 500 Error', 'create_time': 1719032967.760591, 'update_time': 1719216978.629184, 'mapping': {'e2f26be2-7f7a-4d11-8e2b-5e239f5e9b06': {'id': 'e2f26be2-7f7a-4d11-8e2b-5e239...
+2024-11-23 22:26:05,020 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 Quantum Foam Quest', 'create_time': 1719039699.850199, 'update_time': 1719216969.586614, 'mapping': {'6e1be8ae-1bb4-47a3-9544-739a2b01a131': {'id': '6e1be8ae-1bb4-47a3-9544-739a2b01a131',...
+2024-11-23 22:26:05,790 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 Combined HTML Folder Creation', 'create_time': 1719040780.955412, 'update_time': 1719216946.689077, 'mapping': {'ed49cf2c-133a-49d0-a7b1-6a02ddec37ca': {'id': 'ed49cf2c-133a-49d0-a7b1-6a0...
+2024-11-23 22:26:07,472 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa26f2f-8495-45b2-9727-eac26beae430: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:08,435 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa242c3-2d40-4808-8343-5b0194095e86: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:10,400 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Remove ROCm from Ubuntu', 'create_time': 1719060305.183688, 'update_time': 1719216931.253762, 'mapping': {'ed15d587-f9d8-420b-a5a8-2053596a605e': {'id': 'ed15d587-f9d8-420b-a5a8-2053596a605...
+2024-11-23 22:26:13,919 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node e470e042-f581-4252-9315-fd4a0dbfe816: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:14,136 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 7209de84-aff3-4afb-95d7-36a9ef203be4: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:14,309 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 69f72913-a627-4cc4-9591-cdede30dbcb2: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:14,579 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node d565c1b6-5117-4d21-8024-fa65cc2025ab: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:15,289 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node b588d296-2886-4f92-b7cd-35cd0276b061: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:16,356 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node abc8de84-ac6f-446c-a26a-b8165c051dee: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:16,566 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 Utilize RAG for Data Import', 'create_time': 1719045122.960961, 'update_time': 1719216926.920285, 'mapping': {'bf4e3979-6ce3-4d13-adfb-77b51a0617f7': {'id': 'bf4e3979-6ce3-4d13-adfb-77b51...
+2024-11-23 22:26:41,775 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 Configure AnythingLLM and Docker', 'create_time': 1719180813.637415, 'update_time': 1719216898.102196, 'mapping': {'84cb9f05-e699-423f-a5cb-101a43917076': {'id': '84cb9f05-e699-423f-a5cb-...
+2024-11-23 22:26:46,345 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 Fixing ROCm Issues', 'create_time': 1719096261.978911, 'update_time': 1719216889.8959, 'mapping': {'2be5c2d7-fdb7-4c90-8028-c1dfdc3e54a2': {'id': '2be5c2d7-fdb7-4c90-8028-c1dfdc3e54a2', '...
+2024-11-23 22:26:52,272 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': "🛑 Oliver's DALL·E Birth Certificate", 'create_time': 1719163434.20762, 'update_time': 1719216877.477935, 'mapping': {'8dd12cfb-18c4-4686-ab77-0271a25c3280': {'id': '8dd12cfb-18c4-4686-ab77-...
+2024-11-23 22:26:52,488 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 6c43d445-3bdf-4983-99fd-73d3c704f126: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:52,614 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node d1a2b212-8212-48a3-ba8a-c657b677dce8: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:52,742 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 4e1cba09-92a0-478c-9e27-b92623a514ca: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:52,884 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 3d4ff2c2-cdb8-4a34-b313-e07741766360: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:53,597 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Configurar Micrófono en MacPro', 'create_time': 1719195569.767279, 'update_time': 1719216858.748427, 'mapping': {'c4f75677-f675-421c-a9a8-290d97242934': {'id': 'c4f75677-f675-421c-a9a8-290d...
+2024-11-23 22:26:53,598 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2a11a-1209-4a56-bcd9-99903ea5e9a2: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:54,033 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2a4f7-815b-4503-96b7-07b9b3cfa56e: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:54,191 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Grant Brave Mic Access', 'create_time': 1719193865.455591, 'update_time': 1719216854.193, 'mapping': {'73fe6270-62ea-4c41-9865-6ca6b89252cd': {'id': '73fe6270-62ea-4c41-9865-6ca6b89252cd', ...
+2024-11-23 22:26:54,191 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa28513-6cf9-4244-9fb5-9c309594e50f: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:55,536 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa20497-e5d6-435a-9a3c-cbcf8e4b9049: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:55,750 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2a3df-3808-43f8-bc6f-2a266aa903cb: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:56,347 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa249b8-6fcd-42f6-86bb-3af25f9a646f: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:57,388 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa26b61-1a4b-41d6-96d0-c6ccdd4d88a5: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:57,579 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa291d9-f941-4778-8b46-62bb7a0cc6d3: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:58,038 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2fc52-a902-4bd6-b582-b18e19b90f4b: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:58,298 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 Fix npm EACCES Error', 'create_time': 1719210174.559313, 'update_time': 1719216844.603651, 'mapping': {'2509473d-8e74-4467-be0f-5a7027adfd24': {'id': '2509473d-8e74-4467-be0f-5a7027adfd24...
+2024-11-23 22:26:58,651 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa20c46-1d99-4ec1-bed2-178db15a36ee: sequence item 0: expected str instance, dict found
+2024-11-23 22:26:59,669 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': "🛑Rick's Avatars Revised", 'create_time': 1719213686.695852, 'update_time': 1719216829.759353, 'mapping': {'ff3cc30d-d39f-46ce-8a10-847b5a9329c7': {'id': 'ff3cc30d-d39f-46ce-8a10-847b5a9329c...
+2024-11-23 22:27:00,259 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 12364413-9c89-4b3b-8d80-97f1e69aafc1: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:00,390 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 1b5e6c2b-df9f-43dd-a945-bfb6e91f47b8: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:00,661 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node bf8d43f8-4c05-4488-9bb8-0dccf761f2e8: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:00,726 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Get🛑 Busy! Hacking or Philosophies', 'create_time': 1719200277.98958, 'update_time': 1719216804.145805, 'mapping': {'1c4f3bbf-5ef2-4122-a176-c78ad4f9e1ae': {'id': '1c4f3bbf-5ef2-4122-a176-c...
+2024-11-23 22:27:13,145 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa27720-b956-4399-b961-5ade008d095c: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:16,413 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa274d5-35ae-4a9c-a4a3-ccd98d9632b0: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:18,686 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2997c-093c-4fdf-a504-583557cb6ef3: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:19,342 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa22e3c-68f5-4c74-8f60-fe50cde2596b: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:23,246 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 1ce13fb0-d4ed-4b70-aba5-5cab8a1642d8: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:23,847 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 AI Sentience Debate', 'create_time': 1719078977.012022, 'update_time': 1719179573.618686, 'mapping': {'325a7244-566a-4ca2-a4bf-8e5dfd2655a7': {'id': '325a7244-566a-4ca2-a4bf-8e5dfd2655a7'...
+2024-11-23 22:27:27,760 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Docker Troubleshoot Steps', 'create_time': 1719108750.37451, 'update_time': 1719179563.08186, 'mapping': {'f0d6a8a3-065d-4c78-8f81-2794e98979f9': {'id': 'f0d6a8a3-065d-4c78-8f81-2794e98979f...
+2024-11-23 22:27:31,111 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Troubleshoot Docker Container Access', 'create_time': 1719108749.577096, 'update_time': 1719179561.609527, 'mapping': {'164a2893-820f-49d4-aa10-0d0c3536453f': {'id': '164a2893-820f-49d4-aa1...
+2024-11-23 22:27:31,329 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Troubleshoot Permission Errors', 'create_time': 1719106508.611106, 'update_time': 1719179559.096561, 'mapping': {'b2e59c12-5f88-456f-8f6a-d04e1709bd71': {'id': 'b2e59c12-5f88-456f-8f6a-d04e...
+2024-11-23 22:27:36,844 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'ROCm Operational on System', 'create_time': 1719102073.151922, 'update_time': 1719179558.252897, 'mapping': {'78b7ea6c-70fc-40cd-81f9-5fa41fabef35': {'id': '78b7ea6c-70fc-40cd-81f9-5fa41fab...
+2024-11-23 22:27:44,415 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Repair Ubuntu Server Live', 'create_time': 1719079890.395912, 'update_time': 1719179554.585333, 'mapping': {'93c1eab5-d9ca-4acb-a9e8-63d90c8d7f78': {'id': '93c1eab5-d9ca-4acb-a9e8-63d90c8d7...
+2024-11-23 22:27:48,489 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 7922024f-7ca6-49f3-9015-208f5f65e486: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:48,698 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node 85e9996f-7ab9-4181-97ad-46a253f0e0e3: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:48,921 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node a2f95b37-670f-4bff-abb9-819f2fee3ce5: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:49,199 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node d7d9a299-9548-461b-b168-dd4649569099: sequence item 0: expected str instance, dict found
+2024-11-23 22:27:51,020 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node dcc6d9e6-f7f5-466b-8b98-22534313ce5d: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:00,271 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Install ROCm on Ubuntu', 'create_time': 1719090187.251385, 'update_time': 1719179551.988397, 'mapping': {'47b04c0f-0f83-4b75-bdef-096f22c53c39': {'id': '47b04c0f-0f83-4b75-bdef-096f22c53c39...
+2024-11-23 22:28:08,030 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Resolve clinfo Error ROCm', 'create_time': 1719092847.759741, 'update_time': 1719179550.36224, 'mapping': {'f9e5228b-4f60-4915-abf3-f5d86684321c': {'id': 'f9e5228b-4f60-4915-abf3-f5d8668432...
+2024-11-23 22:28:08,541 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Resolve clinfo Invalid Pointer', 'create_time': 1719092903.908808, 'update_time': 1719179545.972903, 'mapping': {'5c4ba924-ddfd-4d60-b359-2c96a86bd8ab': {'id': '5c4ba924-ddfd-4d60-b359-2c96...
+2024-11-23 22:28:15,168 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 User Seeks Cosmic Wisdom', 'create_time': 1719039035.414905, 'update_time': 1719079692.606536, 'mapping': {'8203d7b7-bb2e-4d29-a283-25573f427804': {'id': '8203d7b7-bb2e-4d29-a283-25573f42...
+2024-11-23 22:28:16,022 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 OH Lord! Cosmic Wisdom', 'create_time': 1719077345.192299, 'update_time': 1719079667.889602, 'mapping': {'e50a1267-51d9-4aca-9047-2cf78277f714': {'id': 'e50a1267-51d9-4aca-9047-2cf78277f7...
+2024-11-23 22:28:18,323 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': '🛑 Hackintosh Helper', 'create_time': 1718486924.695906, 'update_time': 1719060095.318308, 'mapping': {'180246ab-5a5e-476d-8955-e22323c4c67c': {'id': '180246ab-5a5e-476d-8955-e22323c4c67c', ...
+2024-11-23 22:28:18,811 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2c07a-660f-4d02-a7ea-119c90f39a83: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:19,247 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2c490-e8b0-4a8c-accd-076f2e718103: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:19,426 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2c792-4351-46cb-b457-21ccff5e1f10: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:19,608 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2ce8b-5950-4633-9393-7fe4add3ce00: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:20,483 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Configuring Ollama WebUI Backend', 'create_time': 1718931764.789417, 'update_time': 1719054376.661507, 'mapping': {'cef9bee8-d269-47ec-9f75-a6c928e2b3d9': {'id': 'cef9bee8-d269-47ec-9f75-a6...
+2024-11-23 22:28:33,077 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Full Moon Weirdness Ahead', 'create_time': 1719029858.815587, 'update_time': 1719031855.644236, 'mapping': {'b909118b-fbf9-4dae-8a2a-72be42b65b5e': {'id': 'b909118b-fbf9-4dae-8a2a-72be42b65...
+2024-11-23 22:28:37,193 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Next Step: Bike Project', 'create_time': 1719025748.073835, 'update_time': 1719026600.953846, 'mapping': {'76692f81-6683-43ad-9017-85f8c91968e2': {'id': '76692f81-6683-43ad-9017-85f8c91968e...
+2024-11-23 22:28:38,406 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Access AnythingLLM Session Browser', 'create_time': 1719022067.645044, 'update_time': 1719022144.293742, 'mapping': {'bfb1aff2-27ab-479e-9810-85fe68651ae8': {'id': 'bfb1aff2-27ab-479e-9810-...
+2024-11-23 22:28:38,936 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Adventure with Quantum Buddy', 'create_time': 1719014846.51764, 'update_time': 1719021221.708084, 'mapping': {'dacbe415-18cb-4d27-b07b-82e687ddfb8d': {'id': 'dacbe415-18cb-4d27-b07b-82e687d...
+2024-11-23 22:28:39,978 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa212a9-16b4-4a12-8d0c-6cbae993c47f: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:40,854 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa21bd8-f4c7-435f-b630-294c315a2db0: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:42,482 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa22d8c-3e17-4204-892e-e1b9146484d6: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:42,936 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2c85e-784d-4414-b7de-5a6b05d20500: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:43,220 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa27ef8-aa1a-4813-8a45-3a21e7ace382: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:46,928 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa251f9-a8eb-448c-b4d2-c422b9304f30: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:47,163 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa22054-d43e-4801-abde-95eb53dbbd85: sequence item 0: expected str instance, dict found
+2024-11-23 22:28:49,082 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Troubleshoot AnythingLLM Ollama Integration', 'create_time': 1718994528.545814, 'update_time': 1719012072.998168, 'mapping': {'f07d8f62-df5a-4e75-8e67-e40e606a1631': {'id': 'f07d8f62-df5a-4...
+2024-11-23 22:29:07,773 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Setting Up Web Interface', 'create_time': 1718874334.313202, 'update_time': 1718931615.766486, 'mapping': {'e25f7abf-07fc-4a7a-8434-73db5c71b742': {'id': 'e25f7abf-07fc-4a7a-8434-73db5c71b7...
+2024-11-23 22:29:16,470 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa23f6b-8878-400a-91b1-c68bacaf8f97: sequence item 0: expected str instance, dict found
+2024-11-23 22:29:18,412 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Custom Automation Tools', 'create_time': 1718907911.852638, 'update_time': 1718908024.437198, 'mapping': {'1723efad-edd9-4523-bd7a-7c95af92e36b': {'id': '1723efad-edd9-4523-bd7a-7c95af92e36...
+2024-11-23 22:29:19,110 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Rolling Sheet Metal Tips', 'create_time': 1718907701.425117, 'update_time': 1718907746.105035, 'mapping': {'6b3dadae-ea01-404f-8eef-2c872b65b6b2': {'id': '6b3dadae-ea01-404f-8eef-2c872b65b6...
+2024-11-23 22:29:19,413 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Prioritize Chaos: Unconventional Tactics', 'create_time': 1718891848.331901, 'update_time': 1718892623.92568, 'mapping': {'beb2d53e-45f6-418d-94a2-af833be15201': {'id': 'beb2d53e-45f6-418d-...
+2024-11-23 22:29:20,712 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Weird Copy-Paste Fix', 'create_time': 1718873692.792928, 'update_time': 1718873740.045859, 'mapping': {'d9ba0109-fca6-41cc-acb5-1949f30497ee': {'id': 'd9ba0109-fca6-41cc-acb5-1949f30497ee',...
+2024-11-23 22:29:21,031 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Resolve Docker Naming Conflict', 'create_time': 1718872671.860396, 'update_time': 1718873629.516213, 'mapping': {'3be42fd4-c130-4f42-8bea-1a9011dfe75e': {'id': '3be42fd4-c130-4f42-8bea-1a90...
+2024-11-23 22:29:24,247 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Troubleshoot Python Package Installation', 'create_time': 1718871996.60184, 'update_time': 1718872558.683368, 'mapping': {'af6c148a-75b3-473d-af4a-231010927693': {'id': 'af6c148a-75b3-473d-...
+2024-11-23 22:29:26,417 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Moving to Ubuntu excitement', 'create_time': 1718870320.329059, 'update_time': 1718871756.828771, 'mapping': {'46909552-7001-4dff-aaf4-357149b95454': {'id': '46909552-7001-4dff-aaf4-357149b...
+2024-11-23 22:29:31,660 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Are You There?', 'create_time': 1718869368.329288, 'update_time': 1718869628.167195, 'mapping': {'e997612c-d7d8-49cf-baff-bdf4a544e6b3': {'id': 'e997612c-d7d8-49cf-baff-bdf4a544e6b3', 'mess...
+2024-11-23 22:29:32,241 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa2b7c4-8448-494f-8d00-03eb82e3163f: sequence item 0: expected str instance, dict found
+2024-11-23 22:29:32,626 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Review Script Errors', 'create_time': 1718862515.968746, 'update_time': 1718863007.577586, 'mapping': {'522b3ab5-f7a1-4602-a4f1-2221b2bf826d': {'id': '522b3ab5-f7a1-4602-a4f1-2221b2bf826d',...
+2024-11-23 22:29:37,228 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Install Linux tools effectively', 'create_time': 1718861240.796988, 'update_time': 1718862330.300324, 'mapping': {'b0793157-e48f-4b39-942d-94bbef2c51f2': {'id': 'b0793157-e48f-4b39-942d-94b...
+2024-11-23 22:29:40,536 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Help Fix Errors Quickly', 'create_time': 1718860476.64346, 'update_time': 1718861806.131253, 'mapping': {'77a2c5b6-1ab8-4251-9a81-bc27e60e910a': {'id': '77a2c5b6-1ab8-4251-9a81-bc27e60e910a...
+2024-11-23 22:29:44,408 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Linux Scripting Help Needed', 'create_time': 1718859984.37979, 'update_time': 1718861801.499923, 'mapping': {'b29c2639-a03b-4ac8-a6c5-5d27c541b993': {'id': 'b29c2639-a03b-4ac8-a6c5-5d27c541...
+2024-11-23 22:29:47,858 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Radeon Open Compute Install', 'create_time': 1718857777.463082, 'update_time': 1718861571.133246, 'mapping': {'3764b1e4-3a7d-4b84-9527-905ca8647d4f': {'id': '3764b1e4-3a7d-4b84-9527-905ca86...
+2024-11-23 22:29:51,063 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Remove Linux directories with files', 'create_time': 1718854416.439232, 'update_time': 1718861565.199573, 'mapping': {'3302a99e-37ae-4600-8a6f-e9f1ee02c2e3': {'id': '3302a99e-37ae-4600-8a6f...
+2024-11-23 22:29:52,665 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Supplementary Ubuntu Installation Script', 'create_time': 1718850729.628832, 'update_time': 1718861561.099937, 'mapping': {'77df114e-7cf0-4e2e-9717-e33c4a75e238': {'id': '77df114e-7cf0-4e2e...
+2024-11-23 22:29:56,024 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Post-Install Script for Ubuntu', 'create_time': 1718850114.795818, 'update_time': 1718861557.248197, 'mapping': {'8a91f5b7-1573-4d27-ac6b-2c8bb3616860': {'id': '8a91f5b7-1573-4d27-ac6b-2c8b...
+2024-11-23 22:29:56,749 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Fine-tuning post-install script', 'create_time': 1718811093.441175, 'update_time': 1718861552.442474, 'mapping': {'a2b71d10-1d15-4031-bf0e-729068d2f01e': {'id': 'a2b71d10-1d15-4031-bf0e-729...
+2024-11-23 22:29:58,580 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Script Installation Issues', 'create_time': 1718825617.555692, 'update_time': 1718861548.298036, 'mapping': {'f130709c-05cd-486a-b1dc-211ca16258de': {'id': 'f130709c-05cd-486a-b1dc-211ca162...
+2024-11-23 22:30:03,542 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Recover OpenCore on Hackintosh', 'create_time': 1718818121.192198, 'update_time': 1718861544.734276, 'mapping': {'604a65f7-b542-4af0-82a0-94afe28a2b75': {'id': '604a65f7-b542-4af0-82a0-94af...
+2024-11-23 22:30:05,131 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node f2829c51-652d-47ef-89ed-57fcea7a04bb: sequence item 0: expected str instance, dict found
+2024-11-23 22:30:05,413 - ERROR - [nlp-resume-builder_rev3.py:150] - Error processing node aaa29ee3-387b-4e00-a23c-1a2fed758da2: sequence item 0: expected str instance, dict found
+2024-11-23 22:30:12,300 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Rick you there', 'create_time': 1718819262.081451, 'update_time': 1718861541.377808, 'mapping': {'388d9525-d632-49eb-97ed-74e558b8f1e5': {'id': '388d9525-d632-49eb-97ed-74e558b8f1e5', 'mess...
+2024-11-23 22:30:12,341 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'GitHub Installations on Ubuntu', 'create_time': 1718813370.195982, 'update_time': 1718861538.249953, 'mapping': {'d130ed74-44af-4f0e-8b2e-0281fd032f83': {'id': 'd130ed74-44af-4f0e-8b2e-0281...
+2024-11-23 22:30:22,490 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Script Troubleshooting Tips', 'create_time': 1718811520.192289, 'update_time': 1718861534.036683, 'mapping': {'afaac787-1a09-408f-92f1-05daab78ea7c': {'id': 'afaac787-1a09-408f-92f1-05daab7...
+2024-11-23 22:30:23,342 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': "Interesting request, Model's response", 'create_time': 1718760498.667962, 'update_time': 1718861530.768997, 'mapping': {'f7691747-4f71-48b0-ba1b-3cff576b0ac1': {'id': 'f7691747-4f71-48b0-ba...
+2024-11-23 22:30:45,638 - DEBUG - [nlp-resume-builder_rev3.py:114] - Processing conversation: {'title': 'Hackintosh Ubuntu Setup Success', 'create_time': 1718670927.511551, 'update_time': 1718861524.504673, 'mapping': {'06c0402d-d4e8-4cb3-9b02-b15488830cc5': {'id': '06c0402d-d4e8-4cb3-9b02-b15...
+2024-11-23 22:31:19,517 - INFO - [nlp-resume-builder_rev3.py:74] - PyTorch device initialized: mps
+2024-11-23 22:31:27,112 - INFO - [nlp-resume-builder_rev3.py:74] - PyTorch device initialized: mps
+2024-11-23 23:30:49,071 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:30:49,072 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:30:54,158 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:30:54,159 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:30:54,159 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:30:54,411 - INFO - [nlp-resume-builder_rev3.py:578] - Requesting input file selection...
+2024-11-23 23:31:01,427 - INFO - [nlp-resume-builder_rev3.py:589] - Requesting output directory selection...
+2024-11-23 23:31:05,780 - INFO - [nlp-resume-builder_rev3.py:141] - Initializing AIResumeGenerator
+2024-11-23 23:31:05,780 - DEBUG - [nlp-resume-builder_rev3.py:150] - Expanding 32 keywords with synonyms
+2024-11-23 23:31:10,738 - INFO - [nlp-resume-builder_rev3.py:601] - Processing conversations...
+2024-11-23 23:31:10,739 - INFO - [nlp-resume-builder_rev3.py:163] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-23 23:31:12,184 - INFO - [nlp-resume-builder_rev3.py:168] - Successfully loaded JSON data
+2024-11-23 23:31:12,184 - DEBUG - [nlp-resume-builder_rev3.py:169] - Data structure type: <class 'list'>
+2024-11-23 23:31:12,184 - DEBUG - [nlp-resume-builder_rev3.py:175] - Processing multiple conversations: 913
+2024-11-23 23:31:12,185 - ERROR - [nlp-resume-builder_rev3.py:189] - Error processing conversations: pool objects cannot be passed between processes or pickled
+2024-11-23 23:31:12,185 - ERROR - [nlp-resume-builder_rev3.py:610] - Error in main execution: pool objects cannot be passed between processes or pickled
+2024-11-23 23:31:12,186 - INFO - [nlp-resume-builder_rev3.py:612] - Check ai_resume_generator.log for details.
+2024-11-23 23:31:18,081 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:18,081 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:18,227 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:18,227 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:18,397 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:18,397 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:18,670 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:18,671 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:18,871 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:18,871 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:19,014 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:19,014 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:19,260 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:19,261 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:19,475 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:19,475 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:19,639 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:19,639 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:19,802 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:19,802 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:19,962 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:19,962 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:20,057 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:20,058 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:20,288 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:20,289 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:20,503 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:20,503 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:20,602 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:20,603 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:20,771 - INFO - [nlp-resume-builder_rev3.py:70] - All required packages imported successfully
+2024-11-23 23:31:20,772 - INFO - [nlp-resume-builder_rev3.py:77] - PyTorch device initialized: mps
+2024-11-23 23:31:30,133 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:30,134 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:30,134 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:30,704 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:30,704 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:30,704 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:33,101 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:33,102 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:33,102 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:34,429 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:34,429 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:34,429 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,106 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,106 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,106 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,142 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,142 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,142 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,775 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,776 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,776 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,823 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,823 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,823 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,839 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,839 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,839 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,849 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,849 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,850 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,883 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,883 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,883 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,902 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,902 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,902 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,904 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,904 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,904 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,904 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,905 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,905 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,907 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,907 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,907 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:31:36,913 - INFO - [nlp-resume-builder_rev3.py:114] - Initialization complete. Using 16 cores on mps
+2024-11-23 23:31:36,913 - INFO - [nlp-resume-builder_rev3.py:115] - PyTorch device: mps
+2024-11-23 23:31:36,914 - DEBUG - [nlp-resume-builder_rev3.py:116] - NLP components initialized successfully
+2024-11-23 23:38:27,101 - INFO - [nlp-resume-builder_rev3.py:75] - PyTorch device initialized: mps
+2024-11-23 23:38:31,938 - INFO - [nlp-resume-builder_rev3.py:551] - Requesting input file selection...
+2024-11-23 23:38:37,009 - INFO - [nlp-resume-builder_rev3.py:562] - Requesting output directory selection...
+2024-11-23 23:38:42,135 - INFO - [nlp-resume-builder_rev3.py:133] - Initializing AIResumeGenerator
+2024-11-23 23:38:42,135 - DEBUG - [nlp-resume-builder_rev3.py:142] - Expanding 32 keywords with synonyms
+2024-11-23 23:38:44,629 - DEBUG - [nlp-resume-builder_rev3.py:138] - AIResumeGenerator initialized successfully
+2024-11-23 23:38:44,629 - INFO - [nlp-resume-builder_rev3.py:574] - Processing conversations...
+2024-11-23 23:38:44,629 - INFO - [nlp-resume-builder_rev3.py:155] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-23 23:38:45,638 - INFO - [nlp-resume-builder_rev3.py:160] - Successfully loaded JSON data
+2024-11-23 23:38:45,638 - DEBUG - [nlp-resume-builder_rev3.py:161] - Data structure type: <class 'list'>
+2024-11-23 23:38:45,638 - DEBUG - [nlp-resume-builder_rev3.py:167] - Processing multiple conversations: 913
+2024-11-23 23:46:39,280 - INFO - [nlp-resume-builder_rev3.py:76] - PyTorch device initialized: mps
+2024-11-23 23:46:43,864 - INFO - [nlp-resume-builder_rev3.py:599] - Requesting input file selection...
+2024-11-23 23:46:49,117 - INFO - [nlp-resume-builder_rev3.py:610] - Requesting output directory selection...
+2024-11-23 23:46:58,157 - INFO - [nlp-resume-builder_rev3.py:134] - Initializing AIResumeGenerator
+2024-11-23 23:46:58,157 - DEBUG - [nlp-resume-builder_rev3.py:143] - Expanding 32 keywords with synonyms
+2024-11-23 23:47:00,642 - DEBUG - [nlp-resume-builder_rev3.py:139] - AIResumeGenerator initialized successfully
+2024-11-23 23:47:00,642 - INFO - [nlp-resume-builder_rev3.py:622] - Processing conversations...
+2024-11-23 23:47:00,642 - INFO - [nlp-resume-builder_rev3.py:156] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-23 23:47:01,628 - INFO - [nlp-resume-builder_rev3.py:161] - Successfully loaded JSON data with 913 conversations
+2024-11-23 23:47:01,629 - INFO - [nlp-resume-builder_rev3.py:168] - Processing 913 conversations...
+2024-11-23 23:47:01,629 - INFO - [nlp-resume-builder_rev3.py:173] - Processing chunk 1/17 (57 conversations)
+2024-11-24 00:22:30,041 - INFO - [nlp-resume-builder_rev3.py:78] - MPS (Apple Silicon GPU) is available and will be used
+2024-11-24 00:22:34,562 - INFO - [nlp-resume-builder_rev3.py:124] - Models successfully loaded and moved to mps
+2024-11-24 00:22:34,811 - INFO - [nlp-resume-builder_rev3.py:629] - Requesting input file selection...
+2024-11-24 00:23:12,696 - INFO - [nlp-resume-builder_rev3.py:640] - Requesting output directory selection...
+2024-11-24 00:23:16,751 - INFO - [nlp-resume-builder_rev3.py:151] - Initializing AIResumeGenerator
+2024-11-24 00:23:16,751 - DEBUG - [nlp-resume-builder_rev3.py:160] - Expanding 32 keywords with synonyms
+2024-11-24 00:23:19,284 - DEBUG - [nlp-resume-builder_rev3.py:156] - AIResumeGenerator initialized successfully
+2024-11-24 00:23:19,285 - INFO - [nlp-resume-builder_rev3.py:652] - Processing conversations...
+2024-11-24 00:23:19,285 - INFO - [nlp-resume-builder_rev3.py:173] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-24 00:23:20,341 - INFO - [nlp-resume-builder_rev3.py:178] - Successfully loaded JSON data with 913 conversations
+2024-11-24 00:23:20,341 - INFO - [nlp-resume-builder_rev3.py:185] - Processing 913 conversations...
+2024-11-24 00:23:20,478 - DEBUG - [nlp-resume-builder_rev3.py:192] - Processing batch 1/115
+2024-11-24 00:23:20,484 - DEBUG - [nlp-resume-builder_rev3.py:261] - Processing batch of 397 texts on mps
+2024-11-24 00:23:24,873 - ERROR - [nlp-resume-builder_rev3.py:337] - Error in batch content analysis: Invalid buffer size: 4.65 GB
+2024-11-24 00:23:24,874 - DEBUG - [nlp-resume-builder_rev3.py:192] - Processing batch 2/115
+2024-11-24 00:23:24,876 - DEBUG - [nlp-resume-builder_rev3.py:261] - Processing batch of 401 texts on mps
+2024-11-24 00:23:27,450 - ERROR - [nlp-resume-builder_rev3.py:337] - Error in batch content analysis: Invalid buffer size: 4.70 GB
+2024-11-24 00:23:27,451 - DEBUG - [nlp-resume-builder_rev3.py:192] - Processing batch 3/115
+2024-11-24 00:23:27,453 - DEBUG - [nlp-resume-builder_rev3.py:261] - Processing batch of 363 texts on mps
+2024-11-24 00:23:30,091 - ERROR - [nlp-resume-builder_rev3.py:337] - Error in batch content analysis: Invalid buffer size: 4.25 GB
+2024-11-24 00:23:30,091 - DEBUG - [nlp-resume-builder_rev3.py:192] - Processing batch 4/115
+2024-11-24 00:23:30,092 - DEBUG - [nlp-resume-builder_rev3.py:261] - Processing batch of 123 texts on mps
+2024-11-24 00:25:25,355 - INFO - [nlp-resume-builder_rev3.py:78] - MPS (Metal Performance Shaders) available - using RX580
+2024-11-24 00:25:29,014 - INFO - [nlp-resume-builder_rev3.py:97] - Models successfully loaded and moved to mps
+2024-11-24 00:25:32,013 - INFO - [nlp-resume-builder_rev3.py:133] - Models successfully loaded and moved to mps
+2024-11-24 00:25:32,240 - INFO - [nlp-resume-builder_rev3.py:638] - Requesting input file selection...
+2024-11-24 00:25:36,921 - INFO - [nlp-resume-builder_rev3.py:649] - Requesting output directory selection...
+2024-11-24 00:25:41,068 - INFO - [nlp-resume-builder_rev3.py:160] - Initializing AIResumeGenerator
+2024-11-24 00:25:41,068 - DEBUG - [nlp-resume-builder_rev3.py:169] - Expanding 32 keywords with synonyms
+2024-11-24 00:25:43,531 - DEBUG - [nlp-resume-builder_rev3.py:165] - AIResumeGenerator initialized successfully
+2024-11-24 00:25:43,531 - INFO - [nlp-resume-builder_rev3.py:661] - Processing conversations...
+2024-11-24 00:25:43,531 - INFO - [nlp-resume-builder_rev3.py:182] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-24 00:25:44,561 - INFO - [nlp-resume-builder_rev3.py:187] - Successfully loaded JSON data with 913 conversations
+2024-11-24 00:25:44,561 - INFO - [nlp-resume-builder_rev3.py:194] - Processing 913 conversations...
+2024-11-24 00:25:44,750 - DEBUG - [nlp-resume-builder_rev3.py:201] - Processing batch 1/115
+2024-11-24 00:25:44,755 - DEBUG - [nlp-resume-builder_rev3.py:270] - Processing batch of 397 texts on mps
+2024-11-24 00:25:48,240 - ERROR - [nlp-resume-builder_rev3.py:346] - Error in batch content analysis: Invalid buffer size: 4.65 GB
+2024-11-24 00:25:48,241 - DEBUG - [nlp-resume-builder_rev3.py:201] - Processing batch 2/115
+2024-11-24 00:25:48,243 - DEBUG - [nlp-resume-builder_rev3.py:270] - Processing batch of 401 texts on mps
+2024-11-24 00:25:50,778 - ERROR - [nlp-resume-builder_rev3.py:346] - Error in batch content analysis: Invalid buffer size: 4.70 GB
+2024-11-24 00:25:50,779 - DEBUG - [nlp-resume-builder_rev3.py:201] - Processing batch 3/115
+2024-11-24 00:25:50,781 - DEBUG - [nlp-resume-builder_rev3.py:270] - Processing batch of 363 texts on mps
+2024-11-24 00:25:51,186 - ERROR - [nlp-resume-builder_rev3.py:346] - Error in batch content analysis: Invalid buffer size: 4.25 GB
+2024-11-24 00:25:51,187 - DEBUG - [nlp-resume-builder_rev3.py:201] - Processing batch 4/115
+2024-11-24 00:25:51,187 - DEBUG - [nlp-resume-builder_rev3.py:270] - Processing batch of 123 texts on mps
+2024-11-24 00:33:48,178 - INFO - [nlp-resume-builder_rev3.py:80] - MPS (Metal Performance Shaders) available - using RX580
+2024-11-24 00:33:51,803 - INFO - [nlp-resume-builder_rev3.py:99] - Models successfully loaded and moved to mps
+2024-11-24 00:33:54,862 - INFO - [nlp-resume-builder_rev3.py:135] - Models successfully loaded and moved to mps
+2024-11-24 00:33:55,113 - INFO - [nlp-resume-builder_rev3.py:670] - Requesting input file selection...
+2024-11-24 00:34:01,240 - INFO - [nlp-resume-builder_rev3.py:681] - Requesting output directory selection...
+2024-11-24 00:34:07,459 - INFO - [nlp-resume-builder_rev3.py:162] - Initializing AIResumeGenerator
+2024-11-24 00:34:07,459 - DEBUG - [nlp-resume-builder_rev3.py:171] - Expanding 32 keywords with synonyms
+2024-11-24 00:34:10,004 - DEBUG - [nlp-resume-builder_rev3.py:167] - AIResumeGenerator initialized successfully
+2024-11-24 00:34:10,004 - INFO - [nlp-resume-builder_rev3.py:693] - Processing conversations...
+2024-11-24 00:34:10,004 - INFO - [nlp-resume-builder_rev3.py:184] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-24 00:34:11,099 - INFO - [nlp-resume-builder_rev3.py:189] - Successfully loaded JSON data with 913 conversations
+2024-11-24 00:34:11,099 - INFO - [nlp-resume-builder_rev3.py:196] - Processing 913 conversations...
+2024-11-24 00:34:11,308 - DEBUG - [nlp-resume-builder_rev3.py:203] - Processing batch 1/457
+2024-11-24 00:34:11,309 - ERROR - [nlp-resume-builder_rev3.py:266] - Error in batch analysis: 'AIResumeGenerator' object has no attribute '_analyze_content_batch'
+2024-11-24 00:34:11,310 - ERROR - [nlp-resume-builder_rev3.py:211] - Error processing conversations: 'AIResumeGenerator' object has no attribute '_merge_results'
+2024-11-24 00:34:11,310 - ERROR - [nlp-resume-builder_rev3.py:702] - Error in main execution: 'AIResumeGenerator' object has no attribute '_merge_results'
+2024-11-24 00:34:11,310 - INFO - [nlp-resume-builder_rev3.py:704] - Check ai_resume_generator.log for details.
+2024-11-24 00:43:54,688 - INFO - [nlp-resume-builder_rev3.py:80] - MPS (Metal Performance Shaders) available - using RX580
+2024-11-24 00:43:58,301 - INFO - [nlp-resume-builder_rev3.py:99] - Models successfully loaded and moved to mps
+2024-11-24 00:43:59,445 - INFO - [nlp-resume-builder_rev3.py:674] - Requesting input file selection...
+2024-11-24 00:44:05,209 - INFO - [nlp-resume-builder_rev3.py:685] - Requesting output directory selection...
+2024-11-24 00:44:11,026 - INFO - [nlp-resume-builder_rev3.py:146] - Initializing AIResumeGenerator
+2024-11-24 00:44:11,027 - DEBUG - [nlp-resume-builder_rev3.py:155] - Expanding 32 keywords with synonyms
+2024-11-24 00:44:13,505 - DEBUG - [nlp-resume-builder_rev3.py:151] - AIResumeGenerator initialized successfully
+2024-11-24 00:44:13,505 - INFO - [nlp-resume-builder_rev3.py:697] - Processing conversations...
+2024-11-24 00:44:13,505 - INFO - [nlp-resume-builder_rev3.py:168] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-24 00:44:14,536 - INFO - [nlp-resume-builder_rev3.py:173] - Successfully loaded JSON data with 913 conversations
+2024-11-24 00:44:14,537 - INFO - [nlp-resume-builder_rev3.py:180] - Processing 913 conversations...
+2024-11-24 00:44:14,667 - DEBUG - [nlp-resume-builder_rev3.py:187] - Processing batch 1/457
+2024-11-24 00:44:14,668 - DEBUG - [nlp-resume-builder_rev3.py:292] - Processing batch of 104 texts on mps
+2024-11-24 00:44:49,010 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:44:50,889 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:44:51,742 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:44:52,247 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:44:54,737 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:44:56,203 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:44:56,745 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:44:58,985 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:01,068 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:03,666 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:05,169 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:07,325 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:08,662 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:09,774 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:10,588 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:11,740 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:13,102 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:15,952 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:18,936 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:20,347 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:23,331 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:24,208 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:27,381 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:29,259 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:32,268 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:34,853 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:36,097 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:38,063 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:39,412 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:40,510 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:42,416 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:44,116 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:46,197 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:47,667 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:49,753 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:51,772 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:53,852 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:55,969 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:57,907 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:45:59,064 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:46:00,197 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:46:02,635 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:46:04,564 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:46:05,952 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:46:07,612 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:46:10,046 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:46:12,340 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:46:13,236 - WARNING - [nlp-resume-builder_rev3.py:345] - Error generating summary: The operator 'aten::isin.Tensor_Tensor_out' is not currently implemented for the MPS device. If you want this op to be added in priority during the prototype phase of this feature, please comment on https://github.com/pytorch/pytorch/issues/77764. As a temporary fix, you can set the environment variable `PYTORCH_ENABLE_MPS_FALLBACK=1` to use the CPU as a fallback for this op. WARNING: this will be slower than running natively on MPS.
+2024-11-24 00:48:23,599 - INFO - [nlp-resume-builder_rev3.py:83] - MPS (Metal Performance Shaders) available - using RX580
+2024-11-24 00:48:27,193 - INFO - [nlp-resume-builder_rev3.py:102] - Models successfully loaded and moved to mps
+2024-11-24 00:48:28,233 - INFO - [nlp-resume-builder_rev3.py:687] - Requesting input file selection...
+2024-11-24 00:48:33,425 - INFO - [nlp-resume-builder_rev3.py:698] - Requesting output directory selection...
+2024-11-24 00:48:37,048 - INFO - [nlp-resume-builder_rev3.py:149] - Initializing AIResumeGenerator
+2024-11-24 00:48:37,048 - DEBUG - [nlp-resume-builder_rev3.py:158] - Expanding 32 keywords with synonyms
+2024-11-24 00:48:39,685 - DEBUG - [nlp-resume-builder_rev3.py:154] - AIResumeGenerator initialized successfully
+2024-11-24 00:48:39,685 - INFO - [nlp-resume-builder_rev3.py:710] - Processing conversations...
+2024-11-24 00:48:39,686 - INFO - [nlp-resume-builder_rev3.py:171] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-24 00:48:40,842 - INFO - [nlp-resume-builder_rev3.py:176] - Successfully loaded JSON data with 913 conversations
+2024-11-24 00:48:40,842 - INFO - [nlp-resume-builder_rev3.py:183] - Processing 913 conversations...
+2024-11-24 00:48:40,968 - DEBUG - [nlp-resume-builder_rev3.py:190] - Processing batch 1/457
+2024-11-24 00:48:40,970 - DEBUG - [nlp-resume-builder_rev3.py:295] - Processing batch of 104 texts on mps
+2024-11-24 12:33:44,820 - INFO - [nlp-resume-builder_rev3.py:84] - MPS (Metal Performance Shaders) available - using RX580
+2024-11-24 12:33:48,875 - INFO - [nlp-resume-builder_rev3.py:103] - Models successfully loaded and moved to mps
+2024-11-24 12:33:50,078 - INFO - [nlp-resume-builder_rev3.py:703] - Requesting input file selection...
+2024-11-24 12:33:56,706 - INFO - [nlp-resume-builder_rev3.py:714] - Requesting output directory selection...
+2024-11-24 12:34:01,352 - INFO - [nlp-resume-builder_rev3.py:150] - Initializing AIResumeGenerator
+2024-11-24 12:34:01,352 - DEBUG - [nlp-resume-builder_rev3.py:171] - Expanding 32 keywords with synonyms
+2024-11-24 12:34:03,941 - DEBUG - [nlp-resume-builder_rev3.py:155] - AIResumeGenerator initialized successfully
+2024-11-24 12:34:03,942 - INFO - [nlp-resume-builder_rev3.py:726] - Processing conversations...
+2024-11-24 12:34:03,942 - INFO - [nlp-resume-builder_rev3.py:184] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-24 12:34:05,064 - INFO - [nlp-resume-builder_rev3.py:189] - Successfully loaded JSON data with 913 conversations
+2024-11-24 12:34:05,064 - INFO - [nlp-resume-builder_rev3.py:196] - Processing 913 conversations...
+2024-11-24 12:34:05,211 - DEBUG - [nlp-resume-builder_rev3.py:203] - Processing batch 1/913
+2024-11-24 12:34:05,355 - DEBUG - [nlp-resume-builder_rev3.py:311] - Processing batch of 62 texts on mps
+2024-11-24 12:36:48,240 - DEBUG - [nlp-resume-builder_rev3.py:203] - Processing batch 2/913
+2024-11-24 12:36:48,342 - DEBUG - [nlp-resume-builder_rev3.py:311] - Processing batch of 42 texts on mps
+2024-11-24 12:38:20,812 - DEBUG - [nlp-resume-builder_rev3.py:203] - Processing batch 3/913
+2024-11-24 12:38:20,867 - DEBUG - [nlp-resume-builder_rev3.py:311] - Processing batch of 23 texts on mps
+2024-11-24 12:39:02,665 - DEBUG - [nlp-resume-builder_rev3.py:203] - Processing batch 4/913
+2024-11-24 12:39:02,740 - DEBUG - [nlp-resume-builder_rev3.py:311] - Processing batch of 14 texts on mps
+2024-11-24 12:39:33,279 - DEBUG - [nlp-resume-builder_rev3.py:203] - Processing batch 5/913
+2024-11-24 12:39:33,659 - DEBUG - [nlp-resume-builder_rev3.py:311] - Processing batch of 113 texts on mps
+2024-11-24 12:45:55,175 - INFO - [nlp-resume-builder_rev3.py:90] - MPS (Metal Performance Shaders) available - using RX580
+2024-11-24 12:45:55,807 - INFO - [nlp-resume-builder_rev3.py:105] - Model successfully moved to MPS device
+2024-11-24 12:45:57,549 - INFO - [nlp-resume-builder_rev3.py:115] - Models successfully loaded on mps
+2024-11-24 12:45:58,797 - INFO - [nlp-resume-builder_rev3.py:593] - Requesting input file selection...
+2024-11-24 12:46:04,872 - INFO - [nlp-resume-builder_rev3.py:604] - Requesting output directory selection...
+2024-11-24 12:46:11,303 - INFO - [nlp-resume-builder_rev3.py:148] - Initializing AIResumeGenerator
+2024-11-24 12:46:13,871 - DEBUG - [nlp-resume-builder_rev3.py:205] - Expanded 45 keywords to 437 terms
+2024-11-24 12:46:13,871 - DEBUG - [nlp-resume-builder_rev3.py:154] - AIResumeGenerator initialized successfully
+2024-11-24 12:46:13,872 - INFO - [nlp-resume-builder_rev3.py:616] - Processing conversations...
+2024-11-24 12:46:13,872 - INFO - [nlp-resume-builder_rev3.py:214] - Starting to process conversations from /Volumes/ssdRAID/Projects/NLP Resume/json_sources/conversations.json
+2024-11-24 12:46:14,860 - INFO - [nlp-resume-builder_rev3.py:224] - Successfully loaded JSON data with 913 conversations
+2024-11-24 12:46:14,861 - INFO - [nlp-resume-builder_rev3.py:230] - Processing 913 conversations...
+2024-11-24 12:50:48,542 - INFO - [nlp-resume-builder_rev4.py:164] - Base models successfully loaded
+2024-11-24 12:50:49,576 - INFO - [nlp-resume-builder_rev4.py:843] - Requesting input file selection...
+2024-11-24 12:50:57,518 - INFO - [nlp-resume-builder_rev4.py:854] - Requesting output directory selection...
+2024-11-24 12:51:02,156 - INFO - [nlp-resume-builder_rev4.py:864] - Starting parallel processing on multiple GPUs...
+2024-11-24 12:51:03,089 - INFO - [nlp-resume-builder_rev4.py:89] - Detected multiple MPS-capable GPUs
+2024-11-24 12:51:03,089 - INFO - [nlp-resume-builder_rev4.py:80] - Available GPUs: 2
+2024-11-24 12:51:12,538 - INFO - [nlp-resume-builder_rev4.py:164] - Base models successfully loaded
+2024-11-24 12:51:12,784 - INFO - [nlp-resume-builder_rev4.py:164] - Base models successfully loaded
+2024-11-24 12:51:13,022 - INFO - [nlp-resume-builder_rev4.py:171] - Initializing AIResumeGenerator
+2024-11-24 12:51:13,331 - INFO - [nlp-resume-builder_rev4.py:171] - Initializing AIResumeGenerator
+2024-11-24 12:51:16,012 - DEBUG - [nlp-resume-builder_rev4.py:248] - Expanded 45 keywords to 437 terms
+2024-11-24 12:51:16,227 - INFO - [nlp-resume-builder_rev4.py:192] - Model successfully moved to mps:0
+2024-11-24 12:51:16,227 - DEBUG - [nlp-resume-builder_rev4.py:181] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 12:51:16,227 - INFO - [nlp-resume-builder_rev4.py:258] - Processing chunk of 456 conversations on mps:0
+2024-11-24 12:51:16,367 - DEBUG - [nlp-resume-builder_rev4.py:248] - Expanded 45 keywords to 437 terms
+2024-11-24 12:51:16,554 - INFO - [nlp-resume-builder_rev4.py:192] - Model successfully moved to mps:1
+2024-11-24 12:51:16,554 - DEBUG - [nlp-resume-builder_rev4.py:181] - AIResumeGenerator initialized successfully on mps:1
+2024-11-24 12:51:16,554 - INFO - [nlp-resume-builder_rev4.py:258] - Processing chunk of 456 conversations on mps:1
+2024-11-24 12:51:17,159 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 12:51:17,159 - ERROR - [nlp-resume-builder_rev4.py:519] - Error extracting projects: name 'nlp' is not defined
+2024-11-24 12:51:17,160 - ERROR - [nlp-resume-builder_rev4.py:575] - Error in NER: name 'nlp' is not defined
+2024-11-24 12:51:17,305 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 12:51:17,306 - ERROR - [nlp-resume-builder_rev4.py:519] - Error extracting projects: name 'nlp' is not defined
+2024-11-24 12:51:17,306 - ERROR - [nlp-resume-builder_rev4.py:575] - Error in NER: name 'nlp' is not defined
+2024-11-24 12:51:17,803 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 12:51:19,113 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 12:51:22,199 - ERROR - [nlp-resume-builder_rev4.py:519] - Error extracting projects: name 'nlp' is not defined
+2024-11-24 12:51:22,205 - ERROR - [nlp-resume-builder_rev4.py:575] - Error in NER: name 'nlp' is not defined
+2024-11-24 12:51:22,692 - ERROR - [nlp-resume-builder_rev4.py:519] - Error extracting projects: name 'nlp' is not defined
+2024-11-24 12:51:22,694 - ERROR - [nlp-resume-builder_rev4.py:575] - Error in NER: name 'nlp' is not defined
+2024-11-24 12:51:23,061 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 12:51:23,937 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 12:51:26,925 - ERROR - [nlp-resume-builder_rev4.py:519] - Error extracting projects: name 'nlp' is not defined
+2024-11-24 12:51:26,932 - ERROR - [nlp-resume-builder_rev4.py:575] - Error in NER: name 'nlp' is not defined
+2024-11-24 12:51:27,888 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 12:51:27,888 - ERROR - [nlp-resume-builder_rev4.py:519] - Error extracting projects: name 'nlp' is not defined
+2024-11-24 12:51:27,889 - ERROR - [nlp-resume-builder_rev4.py:575] - Error in NER: name 'nlp' is not defined
+2024-11-24 12:51:28,067 - ERROR - [nlp-resume-builder_rev4.py:519] - Error extracting projects: name 'nlp' is not defined
+2024-11-24 12:51:28,070 - ERROR - [nlp-resume-builder_rev4.py:575] - Error in NER: name 'nlp' is not defined
+2024-11-24 12:51:28,393 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 12:51:28,393 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 12:51:28,393 - ERROR - [nlp-resume-builder_rev4.py:519] - Error extracting projects: name 'nlp' is not defined
+2024-11-24 12:51:28,393 - ERROR - [nlp-resume-builder_rev4.py:519] - Error extracting projects: name 'nlp' is not defined
+2024-11-24 12:51:28,394 - ERROR - [nlp-resume-builder_rev4.py:575] - Error in NER: name 'nlp' is not defined
+2024-11-24 12:51:28,397 - ERROR - [nlp-resume-builder_rev4.py:575] - Error in NER: name 'nlp' is not defined
+2024-11-24 12:51:29,013 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 12:51:29,067 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 12:51:29,067 - ERROR - [nlp-resume-builder_rev4.py:519] - Error extracting projects: name 'nlp' is not defined
+2024-11-24 12:51:29,067 - ERROR - [nlp-resume-builder_rev4.py:575] - Error in NER: name 'nlp' is not defined
+2024-11-24 12:51:29,935 - ERROR - [nlp-resume-builder_rev4.py:472] - Error extracting skills: name 'nlp' is not defined
+2024-11-24 13:02:38,778 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:02:39,423 - INFO - [nlp-resume-builder_rev4.py:830] - Requesting input file selection...
+2024-11-24 13:02:44,689 - INFO - [nlp-resume-builder_rev4.py:841] - Requesting output directory selection...
+2024-11-24 13:02:54,070 - WARNING - [nlp-resume-builder_rev4.py:847] - No output directory selected. Exiting...
+2024-11-24 13:03:07,149 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:03:07,765 - INFO - [nlp-resume-builder_rev4.py:830] - Requesting input file selection...
+2024-11-24 13:03:43,599 - INFO - [nlp-resume-builder_rev4.py:841] - Requesting output directory selection...
+2024-11-24 13:03:56,676 - INFO - [nlp-resume-builder_rev4.py:851] - Starting parallel processing on multiple GPUs...
+2024-11-24 13:03:56,682 - INFO - [nlp-resume-builder_rev4.py:89] - Detected multiple MPS-capable GPUs
+2024-11-24 13:03:56,682 - INFO - [nlp-resume-builder_rev4.py:80] - Available GPUs: 2
+2024-11-24 13:03:56,682 - ERROR - [nlp-resume-builder_rev4.py:820] - Error in parallel processing: range() arg 3 must not be zero
+2024-11-24 13:03:56,682 - ERROR - [nlp-resume-builder_rev4.py:865] - Error in main execution: range() arg 3 must not be zero
+2024-11-24 13:03:56,682 - INFO - [nlp-resume-builder_rev4.py:867] - Check ai_resume_generator.log for details.
+2024-11-24 13:05:16,817 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:05:17,418 - INFO - [nlp-resume-builder_rev4.py:848] - Requesting input file selection...
+2024-11-24 13:05:22,072 - INFO - [nlp-resume-builder_rev4.py:859] - Requesting output directory selection...
+2024-11-24 13:05:25,236 - INFO - [nlp-resume-builder_rev4.py:869] - Starting parallel processing on multiple GPUs...
+2024-11-24 13:05:25,238 - INFO - [nlp-resume-builder_rev4.py:773] - Loaded 1 conversations
+2024-11-24 13:05:25,239 - INFO - [nlp-resume-builder_rev4.py:89] - Detected multiple MPS-capable GPUs
+2024-11-24 13:05:25,239 - INFO - [nlp-resume-builder_rev4.py:80] - Available GPUs: 2
+2024-11-24 13:05:25,239 - WARNING - [nlp-resume-builder_rev4.py:780] - Falling back to single GPU processing
+2024-11-24 13:05:25,239 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:05:27,781 - DEBUG - [nlp-resume-builder_rev4.py:270] - Expanded 45 keywords to 437 terms
+2024-11-24 13:05:28,374 - INFO - [nlp-resume-builder_rev4.py:214] - Model successfully moved to mps:0
+2024-11-24 13:05:28,374 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:05:28,374 - INFO - [nlp-resume-builder_rev4.py:280] - Processing chunk of 1 conversations on mps:0
+2024-11-24 13:06:22,431 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:06:23,068 - INFO - [nlp-resume-builder_rev4.py:848] - Requesting input file selection...
+2024-11-24 13:06:27,984 - INFO - [nlp-resume-builder_rev4.py:859] - Requesting output directory selection...
+2024-11-24 13:06:31,788 - INFO - [nlp-resume-builder_rev4.py:869] - Starting parallel processing on multiple GPUs...
+2024-11-24 13:06:32,753 - INFO - [nlp-resume-builder_rev4.py:773] - Loaded 913 conversations
+2024-11-24 13:06:32,753 - INFO - [nlp-resume-builder_rev4.py:89] - Detected multiple MPS-capable GPUs
+2024-11-24 13:06:32,753 - INFO - [nlp-resume-builder_rev4.py:80] - Available GPUs: 2
+2024-11-24 13:06:32,754 - INFO - [nlp-resume-builder_rev4.py:790] - Processing with 2 chunks of approximately 456 conversations each
+2024-11-24 13:06:32,754 - INFO - [nlp-resume-builder_rev4.py:802] - Created 3 chunks for processing
+2024-11-24 13:06:42,728 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:06:43,883 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:06:44,078 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:06:44,529 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:06:44,961 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:06:45,060 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:06:47,306 - DEBUG - [nlp-resume-builder_rev4.py:270] - Expanded 45 keywords to 437 terms
+2024-11-24 13:06:47,520 - INFO - [nlp-resume-builder_rev4.py:214] - Model successfully moved to mps:0
+2024-11-24 13:06:47,520 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:06:47,520 - INFO - [nlp-resume-builder_rev4.py:280] - Processing chunk of 456 conversations on mps:0
+2024-11-24 13:06:47,967 - DEBUG - [nlp-resume-builder_rev4.py:270] - Expanded 45 keywords to 437 terms
+2024-11-24 13:06:48,099 - DEBUG - [nlp-resume-builder_rev4.py:270] - Expanded 45 keywords to 437 terms
+2024-11-24 13:06:48,217 - INFO - [nlp-resume-builder_rev4.py:214] - Model successfully moved to mps:0
+2024-11-24 13:06:48,218 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:06:48,218 - INFO - [nlp-resume-builder_rev4.py:280] - Processing chunk of 1 conversations on mps:0
+2024-11-24 13:06:48,327 - INFO - [nlp-resume-builder_rev4.py:214] - Model successfully moved to mps:1
+2024-11-24 13:06:48,327 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:1
+2024-11-24 13:06:48,327 - INFO - [nlp-resume-builder_rev4.py:280] - Processing chunk of 456 conversations on mps:1
+2024-11-24 13:10:19,367 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:10:19,983 - INFO - [nlp-resume-builder_rev4.py:885] - Requesting input file selection...
+2024-11-24 13:10:25,659 - INFO - [nlp-resume-builder_rev4.py:896] - Requesting output directory selection...
+2024-11-24 13:10:29,285 - INFO - [nlp-resume-builder_rev4.py:906] - Starting parallel processing on multiple GPUs...
+2024-11-24 13:10:30,188 - INFO - [nlp-resume-builder_rev4.py:810] - Loaded 913 conversations
+2024-11-24 13:10:30,188 - INFO - [nlp-resume-builder_rev4.py:89] - Detected multiple MPS-capable GPUs
+2024-11-24 13:10:30,188 - INFO - [nlp-resume-builder_rev4.py:80] - Available GPUs: 2
+2024-11-24 13:10:30,188 - INFO - [nlp-resume-builder_rev4.py:827] - Processing with 4 chunks of approximately 228 conversations each
+2024-11-24 13:10:30,188 - INFO - [nlp-resume-builder_rev4.py:839] - Created 5 chunks for processing
+2024-11-24 13:10:40,277 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:10:41,491 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:10:41,851 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:10:42,287 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:10:42,521 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:10:42,992 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:10:43,253 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:10:43,714 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:10:43,764 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:10:44,222 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:10:45,380 - DEBUG - [nlp-resume-builder_rev4.py:270] - Expanded 45 keywords to 437 terms
+2024-11-24 13:10:45,657 - INFO - [nlp-resume-builder_rev4.py:214] - Model successfully moved to mps:0
+2024-11-24 13:10:45,657 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:10:45,657 - INFO - [nlp-resume-builder_rev4.py:280] - Processing chunk of 228 conversations on mps:0
+2024-11-24 13:10:45,979 - DEBUG - [nlp-resume-builder_rev4.py:270] - Expanded 45 keywords to 437 terms
+2024-11-24 13:10:46,209 - INFO - [nlp-resume-builder_rev4.py:214] - Model successfully moved to mps:1
+2024-11-24 13:10:46,209 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:1
+2024-11-24 13:10:46,209 - INFO - [nlp-resume-builder_rev4.py:280] - Processing chunk of 228 conversations on mps:1
+2024-11-24 13:10:46,505 - DEBUG - [nlp-resume-builder_rev4.py:270] - Expanded 45 keywords to 437 terms
+2024-11-24 13:10:46,721 - INFO - [nlp-resume-builder_rev4.py:214] - Model successfully moved to mps:0
+2024-11-24 13:10:46,721 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:10:46,721 - INFO - [nlp-resume-builder_rev4.py:280] - Processing chunk of 228 conversations on mps:0
+2024-11-24 13:10:46,910 - DEBUG - [nlp-resume-builder_rev4.py:270] - Expanded 45 keywords to 437 terms
+2024-11-24 13:10:47,103 - DEBUG - [nlp-resume-builder_rev4.py:270] - Expanded 45 keywords to 437 terms
+2024-11-24 13:10:47,183 - INFO - [nlp-resume-builder_rev4.py:214] - Model successfully moved to mps:1
+2024-11-24 13:10:47,183 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:1
+2024-11-24 13:10:47,183 - INFO - [nlp-resume-builder_rev4.py:280] - Processing chunk of 228 conversations on mps:1
+2024-11-24 13:10:47,367 - INFO - [nlp-resume-builder_rev4.py:214] - Model successfully moved to mps:0
+2024-11-24 13:10:47,367 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:10:47,367 - INFO - [nlp-resume-builder_rev4.py:280] - Processing chunk of 1 conversations on mps:0
+2024-11-24 13:11:44,078 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:44,078 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:44,078 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:44,079 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:44,079 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:44,079 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:44,079 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:44,079 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:44,079 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:44,079 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,265 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:11:59,266 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,126 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:00,127 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,467 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,467 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,467 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,467 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,467 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,468 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,469 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,469 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,469 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,469 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,469 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,469 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,469 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:06,469 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,941 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,941 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,941 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,941 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,941 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,942 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,943 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,943 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,943 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,943 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:07,943 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:12,830 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:12,831 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,765 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,766 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,767 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,767 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,767 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,767 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,767 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,767 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:12:48,767 - ERROR - [nlp-resume-builder_rev4.py:510] - Error in text content processing: 'AIResumeGenerator' object has no attribute 'tokenizer'
+2024-11-24 13:15:06,884 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:15:07,517 - INFO - [nlp-resume-builder_rev4.py:695] - Requesting input file selection...
+2024-11-24 13:15:12,448 - INFO - [nlp-resume-builder_rev4.py:706] - Requesting output directory selection...
+2024-11-24 13:15:15,770 - INFO - [nlp-resume-builder_rev4.py:716] - Starting parallel processing on multiple GPUs...
+2024-11-24 13:15:16,744 - INFO - [nlp-resume-builder_rev4.py:620] - Loaded 913 conversations
+2024-11-24 13:15:16,744 - INFO - [nlp-resume-builder_rev4.py:89] - Detected multiple MPS-capable GPUs
+2024-11-24 13:15:16,744 - INFO - [nlp-resume-builder_rev4.py:80] - Available GPUs: 2
+2024-11-24 13:15:16,744 - INFO - [nlp-resume-builder_rev4.py:637] - Processing with 4 chunks of approximately 228 conversations each
+2024-11-24 13:15:16,744 - INFO - [nlp-resume-builder_rev4.py:649] - Created 5 chunks for processing
+2024-11-24 13:15:26,914 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:15:28,187 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:15:28,485 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:15:28,613 - ERROR - [nlp-resume-builder_rev4.py:679] - Error processing GPU chunk: 'AIResumeGenerator' object has no attribute '_expand_keywords_with_synonyms'
+2024-11-24 13:15:29,001 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:15:29,148 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:15:29,251 - ERROR - [nlp-resume-builder_rev4.py:679] - Error processing GPU chunk: 'AIResumeGenerator' object has no attribute '_expand_keywords_with_synonyms'
+2024-11-24 13:15:29,683 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:15:29,709 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:15:29,753 - ERROR - [nlp-resume-builder_rev4.py:679] - Error processing GPU chunk: 'AIResumeGenerator' object has no attribute '_expand_keywords_with_synonyms'
+2024-11-24 13:15:30,274 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:15:30,279 - ERROR - [nlp-resume-builder_rev4.py:679] - Error processing GPU chunk: 'AIResumeGenerator' object has no attribute '_expand_keywords_with_synonyms'
+2024-11-24 13:15:30,321 - INFO - [nlp-resume-builder_rev4.py:175] - Base models successfully loaded
+2024-11-24 13:15:30,381 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:15:30,382 - ERROR - [nlp-resume-builder_rev4.py:679] - Error processing GPU chunk: 'AIResumeGenerator' object has no attribute '_expand_keywords_with_synonyms'
+2024-11-24 13:15:32,350 - INFO - [nlp-resume-builder_rev4.py:182] - Initializing AIResumeGenerator
+2024-11-24 13:15:32,350 - ERROR - [nlp-resume-builder_rev4.py:730] - Error in main execution: 'AIResumeGenerator' object has no attribute '_expand_keywords_with_synonyms'
+2024-11-24 13:15:32,350 - INFO - [nlp-resume-builder_rev4.py:732] - Check ai_resume_generator.log for details.
+2024-11-24 13:20:59,197 - INFO - [nlp-resume-builder_rev4.py:174] - Base models successfully loaded
+2024-11-24 13:20:59,835 - INFO - [nlp-resume-builder_rev4.py:726] - Requesting input file selection...
+2024-11-24 13:21:06,785 - INFO - [nlp-resume-builder_rev4.py:737] - Requesting output directory selection...
+2024-11-24 13:21:11,100 - INFO - [nlp-resume-builder_rev4.py:747] - Starting parallel processing on multiple GPUs...
+2024-11-24 13:21:11,977 - INFO - [nlp-resume-builder_rev4.py:657] - Loaded 913 conversations
+2024-11-24 13:21:11,977 - INFO - [nlp-resume-builder_rev4.py:123] - Detected multiple MPS-capable GPUs
+2024-11-24 13:21:11,977 - INFO - [nlp-resume-builder_rev4.py:114] - Available GPUs: 2
+2024-11-24 13:21:11,977 - INFO - [nlp-resume-builder_rev4.py:673] - Processing with 4 chunks of approximately 228 conversations each
+2024-11-24 13:21:11,977 - INFO - [nlp-resume-builder_rev4.py:682] - Created 5 chunks for processing
+2024-11-24 13:21:22,004 - INFO - [nlp-resume-builder_rev4.py:174] - Base models successfully loaded
+2024-11-24 13:21:23,106 - INFO - [nlp-resume-builder_rev4.py:174] - Base models successfully loaded
+2024-11-24 13:21:23,517 - INFO - [nlp-resume-builder_rev4.py:181] - Initializing AIResumeGenerator
+2024-11-24 13:21:23,902 - INFO - [nlp-resume-builder_rev4.py:253] - Model successfully moved to mps:0
+2024-11-24 13:21:24,000 - INFO - [nlp-resume-builder_rev4.py:174] - Base models successfully loaded
+2024-11-24 13:21:24,165 - INFO - [nlp-resume-builder_rev4.py:181] - Initializing AIResumeGenerator
+2024-11-24 13:21:24,528 - INFO - [nlp-resume-builder_rev4.py:253] - Model successfully moved to mps:1
+2024-11-24 13:21:24,762 - INFO - [nlp-resume-builder_rev4.py:174] - Base models successfully loaded
+2024-11-24 13:21:25,064 - INFO - [nlp-resume-builder_rev4.py:181] - Initializing AIResumeGenerator
+2024-11-24 13:21:25,348 - INFO - [nlp-resume-builder_rev4.py:253] - Model successfully moved to mps:0
+2024-11-24 13:21:25,426 - INFO - [nlp-resume-builder_rev4.py:174] - Base models successfully loaded
+2024-11-24 13:21:25,526 - INFO - [nlp-resume-builder_rev4.py:181] - Initializing AIResumeGenerator
+2024-11-24 13:21:25,765 - INFO - [nlp-resume-builder_rev4.py:253] - Model successfully moved to mps:1
+2024-11-24 13:21:25,905 - INFO - [nlp-resume-builder_rev4.py:181] - Initializing AIResumeGenerator
+2024-11-24 13:21:26,151 - INFO - [nlp-resume-builder_rev4.py:253] - Model successfully moved to mps:0
+2024-11-24 13:21:27,271 - DEBUG - [nlp-resume-builder_rev4.py:219] - Expanded 45 keywords to 437 terms
+2024-11-24 13:21:27,271 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:21:27,271 - INFO - [nlp-resume-builder_rev4.py:263] - Processing chunk of 228 conversations on mps:0
+2024-11-24 13:21:27,811 - DEBUG - [nlp-resume-builder_rev4.py:219] - Expanded 45 keywords to 437 terms
+2024-11-24 13:21:27,811 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:1
+2024-11-24 13:21:27,811 - INFO - [nlp-resume-builder_rev4.py:263] - Processing chunk of 228 conversations on mps:1
+2024-11-24 13:21:28,416 - DEBUG - [nlp-resume-builder_rev4.py:219] - Expanded 45 keywords to 437 terms
+2024-11-24 13:21:28,416 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:21:28,416 - INFO - [nlp-resume-builder_rev4.py:263] - Processing chunk of 228 conversations on mps:0
+2024-11-24 13:21:28,786 - DEBUG - [nlp-resume-builder_rev4.py:219] - Expanded 45 keywords to 437 terms
+2024-11-24 13:21:28,786 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:1
+2024-11-24 13:21:28,786 - INFO - [nlp-resume-builder_rev4.py:263] - Processing chunk of 228 conversations on mps:1
+2024-11-24 13:21:28,894 - DEBUG - [nlp-resume-builder_rev4.py:219] - Expanded 45 keywords to 437 terms
+2024-11-24 13:21:28,894 - DEBUG - [nlp-resume-builder_rev4.py:193] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:21:28,894 - INFO - [nlp-resume-builder_rev4.py:263] - Processing chunk of 1 conversations on mps:0
+2024-11-24 13:32:18,704 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 363.29MB, VMS: 44092.25MB, System Available: 72440.32MB
+2024-11-24 13:32:20,645 - INFO - [nlp-resume-builder_rev4.py:226] - Base models successfully loaded
+2024-11-24 13:32:21,161 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3166.10MB, VMS: 46741.82MB, System Available: 70360.17MB
+2024-11-24 13:32:21,580 - INFO - [nlp-resume-builder_rev4.py:855] - Performing initial memory cleanup...
+2024-11-24 13:32:22,096 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3167.73MB, VMS: 46741.83MB, System Available: 70378.11MB
+2024-11-24 13:32:22,324 - INFO - [nlp-resume-builder_rev4.py:863] - Requesting input file selection...
+2024-11-24 13:32:31,415 - WARNING - [nlp-resume-builder_rev4.py:870] - No input file selected. Exiting...
+2024-11-24 13:32:31,963 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3225.57MB, VMS: 46906.01MB, System Available: 70588.65MB
+2024-11-24 13:32:32,486 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3225.57MB, VMS: 46906.01MB, System Available: 70739.03MB
+2024-11-24 13:37:10,758 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 360.22MB, VMS: 43727.24MB, System Available: 83171.18MB
+2024-11-24 13:37:19,546 - INFO - [nlp-resume-builder_rev4.py:226] - Base models successfully loaded
+2024-11-24 13:37:20,048 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3149.72MB, VMS: 46374.81MB, System Available: 80708.55MB
+2024-11-24 13:37:20,637 - INFO - [nlp-resume-builder_rev4.py:855] - Performing initial memory cleanup...
+2024-11-24 13:37:21,111 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3151.43MB, VMS: 46374.82MB, System Available: 80791.42MB
+2024-11-24 13:37:21,731 - INFO - [nlp-resume-builder_rev4.py:863] - Requesting input file selection...
+2024-11-24 13:37:28,742 - INFO - [nlp-resume-builder_rev4.py:874] - Requesting output directory selection...
+2024-11-24 13:37:40,360 - INFO - [nlp-resume-builder_rev4.py:884] - Starting parallel processing on multiple GPUs...
+2024-11-24 13:37:40,842 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3237.27MB, VMS: 46559.89MB, System Available: 80681.31MB
+2024-11-24 13:37:40,842 - INFO - [nlp-resume-builder_rev4.py:760] - Loading conversations in chunks...
+2024-11-24 13:37:41,714 - INFO - [nlp-resume-builder_rev4.py:772] - Loaded 913/913 conversations
+2024-11-24 13:37:41,714 - INFO - [nlp-resume-builder_rev4.py:778] - Loaded 913 conversations
+2024-11-24 13:37:41,714 - INFO - [nlp-resume-builder_rev4.py:175] - Detected multiple MPS-capable GPUs
+2024-11-24 13:37:41,714 - INFO - [nlp-resume-builder_rev4.py:166] - Available GPUs: 2
+2024-11-24 13:37:41,714 - INFO - [nlp-resume-builder_rev4.py:794] - Processing with 4 chunks of approximately 228 conversations each
+2024-11-24 13:37:41,714 - INFO - [nlp-resume-builder_rev4.py:807] - Created 5 chunks for processing
+2024-11-24 13:37:49,567 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 360.62MB, VMS: 43575.27MB, System Available: 79709.51MB
+2024-11-24 13:37:50,433 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 359.79MB, VMS: 43721.27MB, System Available: 78717.71MB
+2024-11-24 13:37:51,056 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 360.84MB, VMS: 43849.27MB, System Available: 77432.25MB
+2024-11-24 13:37:51,832 - INFO - [nlp-resume-builder_rev4.py:226] - Base models successfully loaded
+2024-11-24 13:37:51,842 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 362.24MB, VMS: 44222.27MB, System Available: 75489.23MB
+2024-11-24 13:37:52,592 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 361.95MB, VMS: 44348.27MB, System Available: 73485.81MB
+2024-11-24 13:37:52,912 - INFO - [nlp-resume-builder_rev4.py:226] - Base models successfully loaded
+2024-11-24 13:37:53,393 - INFO - [nlp-resume-builder_rev4.py:233] - Initializing AIResumeGenerator
+2024-11-24 13:37:53,601 - INFO - [nlp-resume-builder_rev4.py:226] - Base models successfully loaded
+2024-11-24 13:37:53,768 - INFO - [nlp-resume-builder_rev4.py:308] - Model successfully moved to mps:0
+2024-11-24 13:37:54,046 - INFO - [nlp-resume-builder_rev4.py:233] - Initializing AIResumeGenerator
+2024-11-24 13:37:54,428 - INFO - [nlp-resume-builder_rev4.py:308] - Model successfully moved to mps:1
+2024-11-24 13:37:54,437 - INFO - [nlp-resume-builder_rev4.py:226] - Base models successfully loaded
+2024-11-24 13:37:54,777 - INFO - [nlp-resume-builder_rev4.py:233] - Initializing AIResumeGenerator
+2024-11-24 13:37:55,009 - INFO - [nlp-resume-builder_rev4.py:226] - Base models successfully loaded
+2024-11-24 13:37:55,057 - INFO - [nlp-resume-builder_rev4.py:308] - Model successfully moved to mps:0
+2024-11-24 13:37:55,338 - INFO - [nlp-resume-builder_rev4.py:233] - Initializing AIResumeGenerator
+2024-11-24 13:37:55,481 - INFO - [nlp-resume-builder_rev4.py:233] - Initializing AIResumeGenerator
+2024-11-24 13:37:55,625 - INFO - [nlp-resume-builder_rev4.py:308] - Model successfully moved to mps:1
+2024-11-24 13:37:55,737 - INFO - [nlp-resume-builder_rev4.py:308] - Model successfully moved to mps:0
+2024-11-24 13:37:56,946 - DEBUG - [nlp-resume-builder_rev4.py:274] - Expanded 45 keywords to 437 terms
+2024-11-24 13:37:57,355 - DEBUG - [nlp-resume-builder_rev4.py:274] - Expanded 45 keywords to 437 terms
+2024-11-24 13:37:57,570 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3486.68MB, VMS: 47355.24MB, System Available: 70212.55MB
+2024-11-24 13:37:57,570 - DEBUG - [nlp-resume-builder_rev4.py:248] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:37:57,570 - INFO - [nlp-resume-builder_rev4.py:318] - Processing chunk of 228 conversations on mps:0
+2024-11-24 13:37:57,895 - DEBUG - [nlp-resume-builder_rev4.py:274] - Expanded 45 keywords to 437 terms
+2024-11-24 13:37:57,961 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3451.02MB, VMS: 47606.88MB, System Available: 70188.74MB
+2024-11-24 13:37:57,962 - DEBUG - [nlp-resume-builder_rev4.py:248] - AIResumeGenerator initialized successfully on mps:1
+2024-11-24 13:37:57,962 - INFO - [nlp-resume-builder_rev4.py:318] - Processing chunk of 228 conversations on mps:1
+2024-11-24 13:37:58,477 - DEBUG - [nlp-resume-builder_rev4.py:274] - Expanded 45 keywords to 437 terms
+2024-11-24 13:37:58,511 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3512.17MB, VMS: 47548.39MB, System Available: 70244.86MB
+2024-11-24 13:37:58,511 - DEBUG - [nlp-resume-builder_rev4.py:248] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:37:58,511 - INFO - [nlp-resume-builder_rev4.py:318] - Processing chunk of 228 conversations on mps:0
+2024-11-24 13:37:58,665 - DEBUG - [nlp-resume-builder_rev4.py:274] - Expanded 45 keywords to 437 terms
+2024-11-24 13:37:59,096 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3499.48MB, VMS: 47354.15MB, System Available: 70293.14MB
+2024-11-24 13:37:59,096 - DEBUG - [nlp-resume-builder_rev4.py:248] - AIResumeGenerator initialized successfully on mps:1
+2024-11-24 13:37:59,096 - INFO - [nlp-resume-builder_rev4.py:318] - Processing chunk of 228 conversations on mps:1
+2024-11-24 13:37:59,249 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3440.71MB, VMS: 47552.76MB, System Available: 70289.66MB
+2024-11-24 13:37:59,250 - DEBUG - [nlp-resume-builder_rev4.py:248] - AIResumeGenerator initialized successfully on mps:0
+2024-11-24 13:37:59,250 - INFO - [nlp-resume-builder_rev4.py:318] - Processing chunk of 1 conversations on mps:0
+2024-11-24 13:39:21,211 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3479.08MB, VMS: 52752.07MB, System Available: 63785.45MB
+2024-11-24 13:39:21,299 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3495.02MB, VMS: 47724.55MB, System Available: 63795.96MB
+2024-11-24 13:39:21,463 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3531.30MB, VMS: 47585.95MB, System Available: 63826.31MB
+2024-11-24 13:39:21,584 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3539.11MB, VMS: 52701.71MB, System Available: 63883.00MB
+2024-11-24 13:39:21,676 - INFO - [nlp-resume-builder_rev4.py:108] - Memory Usage - RSS: 3552.84MB, VMS: 50078.29MB, System Available: 63920.27MB

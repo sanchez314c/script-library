@@ -1,0 +1,1 @@
+sed -i '' 's/if(!q||E)/if(false)/' /Users/heathen-admin/.npm-global/lib/node_modules/anon-kode/cli.mjs && sed -i '' 's/if(!bxA())/if(false)/' /Users/heathen-admin/.npm-global/lib/node_modules/anon-kode/cli.mjs
